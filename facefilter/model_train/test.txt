@@ -1,0 +1,555 @@
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21] directories =  ['1', '2', '0', '4', '3'] files =  ['setting_screen', 'log_4', 'log_0.txt', 'setting_detail', 'setting', 'log_4.txt', 'log_1.txt', 'log_0', 'log_3', 'log_2.txt', 'log_2', 'log_3.txt', 'log_1']
+#!#!#!#!#!#!#!#!#!#! Can't find perf_output
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21]/1 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63294
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 181109372664
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  181109372664
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21]/2 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 64208
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 175088612545
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  175088612545
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21]/0 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63475
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 188174654746
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  188174654746
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21]/4 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63832
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 177431241881
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  177431241881
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21]/3 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 64127
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 167816897014
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  167816897014
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15] directories =  ['1', '2', '0', '4', '3'] files =  ['setting_screen', 'log_4', 'log_0.txt', 'setting_detail', 'setting', 'log_4.txt', 'log_1.txt', 'log_0', 'log_3', 'log_2.txt', 'log_2', 'log_3.txt', 'log_1']
+#!#!#!#!#!#!#!#!#!#! Can't find perf_output
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15]/1 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 61852
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 223204687464
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  223204687464
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15]/2 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63036
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 209427040146
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  209427040146
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15]/0 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 61687
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 227892957739
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  227892957739
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15]/4 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63955
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 197677311508
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  197677311508
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15]/3 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63558
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 209836740031
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  209836740031
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28] directories =  ['1', '2', '0', '4', '3'] files =  ['setting_screen', 'log_4', 'log_0.txt', 'setting_detail', 'setting', 'log_4.txt', 'log_1.txt', 'log_0', 'log_3', 'log_2.txt', 'log_2', 'log_3.txt', 'log_1']
+#!#!#!#!#!#!#!#!#!#! Can't find perf_output
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28]/1 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 66983
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 178314674914
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  178314674914
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28]/2 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 66913
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 178211783008
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  178211783008
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28]/0 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 66935
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 178520324397
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  178520324397
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28]/4 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 67257
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 178564933571
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  178564933571
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28]/3 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 66455
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 177497231721
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  177497231721
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21] directories =  ['1', '2', '0', '4', '3'] files =  ['setting_screen', 'log_4', 'log_0.txt', 'setting_detail', 'setting', 'log_4.txt', 'log_1.txt', 'log_0', 'log_3', 'log_2.txt', 'log_2', 'log_3.txt', 'log_1']
+#!#!#!#!#!#!#!#!#!#! Can't find perf_output
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21]/1 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63294
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 181109372664
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  181109372664
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21]/2 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 64208
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 175088612545
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  175088612545
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21]/0 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63475
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 188174654746
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  188174654746
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21]/4 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63832
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 177431241881
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  177431241881
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:21] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:21]/3 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 64127
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 167816897014
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  167816897014
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15] directories =  ['1', '2', '0', '4', '3'] files =  ['setting_screen', 'log_4', 'log_0.txt', 'setting_detail', 'setting', 'log_4.txt', 'log_1.txt', 'log_0', 'log_3', 'log_2.txt', 'log_2', 'log_3.txt', 'log_1']
+#!#!#!#!#!#!#!#!#!#! Can't find perf_output
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15]/1 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 61852
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 223204687464
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  223204687464
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15]/2 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63036
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 209427040146
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  209427040146
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15]/0 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 61687
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 227892957739
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  227892957739
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15]/4 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63955
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 197677311508
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  197677311508
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:15] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:15]/3 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 63558
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 209836740031
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  209836740031
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28] directories =  ['1', '2', '0', '4', '3'] files =  ['setting_screen', 'log_4', 'log_0.txt', 'setting_detail', 'setting', 'log_4.txt', 'log_1.txt', 'log_0', 'log_3', 'log_2.txt', 'log_2', 'log_3.txt', 'log_1']
+#!#!#!#!#!#!#!#!#!#! Can't find perf_output
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28]/1 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 66983
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 178314674914
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  178314674914
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28]/2 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 66913
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 178211783008
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  178211783008
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28]/0 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 66935
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 178520324397
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  178520324397
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28]/4 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 67257
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 178564933571
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  178564933571
+
+@@@@@@@@@@@@@@ _dir =  08-23[00:28] path =  logs/logs_0B131JEC200794/perf_dataset/08-23[00:28]/3 directories =  [] files =  ['perf.data', 'perf_output']
+#!#!#!#!#!#!#!#!#!#! find perf_output
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 60 --call-graph fp --app com.gsrathoreniks.facefilter
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Arch: arm64
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event: instructions (type 0, config 1)
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Samples: 66455
+
+#!#!#!#!#!#!#!#!#!#! can't find count
+@@@@@@@@@@@@@@@@@@@@ perf_line =  Event count: 177497231721
+
+#!#!#!#!#!#!#!#!#!#! perf_count =  177497231721
+
+0 0
+0 0
+0 0

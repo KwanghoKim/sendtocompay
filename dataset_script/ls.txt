@@ -1,0 +1,60 @@
+{battery_log_path}
+binary_cache
+find_common_cpu_load_kkh.py
+find_common_cpu_load.py
+log
+logs
+logs_test
+log.txt
+ls.txt
+measure_perf_kkh.py
+measure_perf_n_battery.py
+measure_perf_n_battery_test.py
+measure_script.py
+measure_w_perf.py
+parse_batterystats_ex.py
+parse_batterystats.py
+parse_perf_output_ex.py
+parse_perf_output.py
+perf.data.txt
+result.txt
+run_perf_measurement_0415_kkh.py
+run_perf_measurement_0415.py
+run_perf_measurement_0705_kkh_add_capa.py
+simpleperf
+tags
+test.py
+test.txt
+typescript
+total 712
+drwxrwxr-x  6 kwanghokim kwanghokim   4096 Jul  6 11:10 .
+drwxrwxr-x  3 kwanghokim kwanghokim   4096 Mar 10 16:38 ..
+-rw-rw-r--  1 kwanghokim kwanghokim  23068 Apr 15 03:47 {battery_log_path}
+drwxrwxr-x  7 kwanghokim kwanghokim   4096 Jul  4 15:39 binary_cache
+-rw-rw-r--  1 kwanghokim kwanghokim  10196 Apr 19 19:24 find_common_cpu_load_kkh.py
+-rw-rw-r--  1 kwanghokim kwanghokim  11849 Apr 15 04:23 find_common_cpu_load.py
+-rw-r--r--  1 kwanghokim kwanghokim  24188 Apr 15 02:42 log
+drwxrwxr-x 12 kwanghokim kwanghokim   4096 Jul  6 09:11 logs
+drwxrwxr-x  3 kwanghokim kwanghokim   4096 Mar 25 12:14 logs_test
+-rw-r--r--  1 kwanghokim kwanghokim  24188 Apr 15 02:42 log.txt
+-rw-rw-r--  1 kwanghokim kwanghokim    496 Jul  6 11:10 ls.txt
+-rw-rw-r--  1 kwanghokim kwanghokim   2540 Mar 10 16:38 measure_perf_kkh.py
+-rw-rw-r--  1 kwanghokim kwanghokim   3894 Apr 15 02:55 measure_perf_n_battery.py
+-rw-rw-r--  1 kwanghokim kwanghokim   3860 Apr 15 02:36 measure_perf_n_battery_test.py
+-rw-rw-r--  1 kwanghokim kwanghokim   2294 Mar 10 16:38 measure_script.py
+-rw-rw-r--  1 kwanghokim kwanghokim   3190 Mar 25 12:14 measure_w_perf.py
+-rw-rw-r--  1 kwanghokim kwanghokim   2696 Apr 15 03:59 parse_batterystats_ex.py
+-rw-rw-r--  1 kwanghokim kwanghokim   2789 Apr 15 04:03 parse_batterystats.py
+-rw-rw-r--  1 kwanghokim kwanghokim   7178 Apr 15 03:59 parse_perf_output_ex.py
+-rw-rw-r--  1 kwanghokim kwanghokim  13529 Apr 15 05:43 parse_perf_output.py
+-rw-rw-r--  1 kwanghokim kwanghokim      0 Mar 10 16:38 perf.data.txt
+-rw-rw-r--  1 kwanghokim kwanghokim 104628 Apr 10 18:43 result.txt
+-rw-rw-r--  1 kwanghokim kwanghokim   4355 Apr 15 03:55 run_perf_measurement_0415_kkh.py
+-rw-rw-r--  1 kwanghokim kwanghokim   3719 Apr 15 01:07 run_perf_measurement_0415.py
+-rw-rw-r--  1 kwanghokim kwanghokim   4406 Jul  6 11:02 run_perf_measurement_0705_kkh_add_capa.py
+-rw-r--r--  1 kwanghokim kwanghokim  20480 Jul  6 11:03 .run_perf_measurement_0705_kkh_add_capa.py.swp
+drwxrwxr-x  9 kwanghokim kwanghokim   4096 Apr 15 02:21 simpleperf
+-rw-rw-r--  1 kwanghokim kwanghokim 103341 Apr 10 20:21 tags
+-rw-rw-r--  1 kwanghokim kwanghokim   1386 Mar 25 11:51 test.py
+-rw-rw-r--  1 kwanghokim kwanghokim      0 Apr 10 20:38 test.txt
+-rw-rw-r--  1 kwanghokim kwanghokim 290119 Mar 10 16:38 typescript

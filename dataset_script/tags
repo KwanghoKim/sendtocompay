@@ -1,0 +1,969 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+--compile_java_code option compiles Java code into native instructions, which isn't needed on	simpleperf/doc/README.md	/^# --compile_java_code option compiles Java code into native instructions, which isn't needed on$/;"	c
+-a option selects the Activity to profile.	simpleperf/doc/README.md	/^# -a option selects the Activity to profile.$/;"	c
+-lib option gives the directory to find debug native libraries.	simpleperf/doc/README.md	/^# -lib option gives the directory to find debug native libraries.$/;"	c
+-p option selects the profiled app using its package name.	simpleperf/doc/README.md	/^# -p option selects the profiled app using its package name.$/;"	c
+/debug_dir/A/b to file in /A/b.	simpleperf/doc/README.md	/^# \/debug_dir\/A\/b to file in \/A\/b.$/;"	c
+1. Make sure the application isn't running or one of the recent apps.	simpleperf/doc/README.md	/^# 1. Make sure the application isn't running or one of the recent apps.$/;"	c
+2. Start simpleperf recording.	simpleperf/doc/README.md	/^# 2. Start simpleperf recording.$/;"	c
+3. Start the app manually on the device.	simpleperf/doc/README.md	/^# 3. Start the app manually on the device.$/;"	c
+AdbHelper	simpleperf/utils.py	/^class AdbHelper(object):$/;"	c
+Add disassembly.	simpleperf/doc/README.md	/^# Add disassembly.$/;"	c
+Add source code and disassembly. Change the path of source_dirs if it not correct.	simpleperf/doc/README.md	/^# Add source code and disassembly. Change the path of source_dirs if it not correct.$/;"	c
+Add source code.	simpleperf/doc/README.md	/^# Add source code.$/;"	c
+Addr	simpleperf/utils.py	/^    class Addr(object):$/;"	c	class:Addr2Nearestline
+Addr2Line	simpleperf/annotate.py	/^class Addr2Line(object):$/;"	c
+Addr2Nearestline	simpleperf/utils.py	/^class Addr2Nearestline(object):$/;"	c
+After the command finishes successfully, unplug the USB cable, run the	simpleperf/doc/README.md	/^# After the command finishes successfully, unplug the USB cable, run the$/;"	c
+Android >= P.	simpleperf/doc/README.md	/^# Android >= P.$/;"	c
+Android application profiling	simpleperf/doc/README.md	/^## Android application profiling$/;"	s
+AnonymousFunction3144d0860100	simpleperf/report_html.js	/^$(document).ready(function() {$/;"	f
+AnonymousFunction3144d0860200	simpleperf/report_html.js	/^        this.tabs.forEach(function(tab) {$/;"	f	function:tabs
+AnonymousFunction3144d0860300	simpleperf/report_html.js	/^            change: function() {$/;"	f	function:selectMenu
+AnonymousFunction3144d0860400	simpleperf/report_html.js	/^            return function(eventCount) {$/;"	f	function:AnonymousFunction3144d0860100.SampleTableWeightSelectorView.getSampleWeightFunction
+AnonymousFunction3144d0860500	simpleperf/report_html.js	/^        table.on('click', 'tr', function() {$/;"	f	function:table
+AnonymousFunction3144d0860600	simpleperf/report_html.js	/^            change: function() {$/;"	f	function:selectMenu
+AnonymousFunction3144d0860700	simpleperf/report_html.js	/^            return function(eventCount) {$/;"	f	function:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView.getSampleWeightFunction
+AnonymousFunction3144d0860800	simpleperf/report_html.js	/^            return function(eventCount) {$/;"	f	function:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView.getSampleWeightFunction
+AnonymousFunction3144d0860900	simpleperf/report_html.js	/^            return function(eventCount) {$/;"	f	function:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView.getSampleWeightFunction
+AnonymousFunction3144d0860a00	simpleperf/report_html.js	/^            return function(eventCount) {$/;"	f	function:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView.getSampleWeightFunction
+AnonymousFunction3144d0860b00	simpleperf/report_html.js	/^            return function(eventCount) {$/;"	f	function:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView.getSampleWeightFunction
+AnonymousFunction3144d0860c00	simpleperf/report_html.js	/^        this.svg.find('g').each(function(_, g) {$/;"	f	function:svg
+AnonymousFunction3144d0860d00	simpleperf/report_html.js	/^            thisObj.svg.find('g').each(function(_, g) {$/;"	f
+AnonymousFunction3144d0860e00	simpleperf/report_html.js	/^        this.svg.find('g').on('mouseenter', function() {$/;"	f	function:svg
+AnonymousFunction3144d0860f00	simpleperf/report_html.js	/^            return function() {$/;"	f	function:AnonymousFunction3144d0860100.FlameGraphView._adjustTextSizeOnResize.throttle
+AnonymousFunction3144d0861000	simpleperf/report_html.js	/^                    window.requestAnimationFrame(function () {$/;"	f
+AnonymousFunctiond29ef04b0100	simpleperf/inferno/script.js	/^        return function() {$/;"	f	function:flamegraphInit.throttle
+AnonymousFunctiond29ef04b0200	simpleperf/inferno/script.js	/^                window.requestAnimationFrame(function () {$/;"	f
+AnonymousFunctiond29ef04b0300	simpleperf/inferno/script.js	/^    window.addEventListener('resize', throttle(function() {$/;"	f
+Answers to common issues	simpleperf/doc/README.md	/^## Answers to common issues$/;"	s
+AppProfiler	simpleperf/app_profiler.py	/^class AppProfiler(ProfilerBase):$/;"	c
+BinaryCacheBuilder	simpleperf/binary_cache_builder.py	/^class BinaryCacheBuilder(object):$/;"	c
+CallChainEntryStructure	simpleperf/simpleperf_report_lib.py	/^class CallChainEntryStructure(ct.Structure):$/;"	c
+CallChainEntryStructureUsingStr	simpleperf/simpleperf_report_lib.py	/^class CallChainEntryStructureUsingStr(object):$/;"	c
+CallChainNode	simpleperf/debug_unwind_reporter.py	/^class CallChainNode(object):$/;"	c
+CallChainRecord	simpleperf/debug_unwind_reporter.py	/^class CallChainRecord(object):$/;"	c
+CallChainStructure	simpleperf/simpleperf_report_lib.py	/^class CallChainStructure(ct.Structure):$/;"	c
+CallChainStructureUsingStr	simpleperf/simpleperf_report_lib.py	/^class CallChainStructureUsingStr(object):$/;"	c
+CallNode	simpleperf/report_html.py	/^class CallNode(object):$/;"	c
+CallSite	simpleperf/inferno/data_types.py	/^class CallSite:$/;"	c
+CallTreeNode	simpleperf/report.py	/^class CallTreeNode(object):$/;"	c
+Capture instructions (kernel only) and cache misses with interval of 300 milliseconds for 15	simpleperf/doc/README.md	/^# Capture instructions (kernel only) and cache misses with interval of 300 milliseconds for 15$/;"	c
+Cd to the directory of simpleperf scripts. Record perf.data.	simpleperf/doc/README.md	/^# Cd to the directory of simpleperf scripts. Record perf.data.$/;"	c
+ChartStatTab	simpleperf/report_html.js	/^class ChartStatTab {$/;"	c	class:AnonymousFunction3144d0860100
+ChartView	simpleperf/report_html.js	/^class ChartView {$/;"	c	class:AnonymousFunction3144d0860100
+Close	simpleperf/simpleperf_report_lib.py	/^    def Close(self):$/;"	m	class:ReportLib
+Collect binaries needed by perf.data in binary_cache/.	simpleperf/doc/README.md	/^# Collect binaries needed by perf.data in binary_cache\/.$/;"	c
+Commands	simpleperf/doc/README.md	/^### Commands$/;"	S
+Convert perf.data in the current directory to a format used by FlameGraph.	simpleperf/doc/README.md	/^# Convert perf.data in the current directory to a format used by FlameGraph.$/;"	c
+Convert perf.data in the current directory to pprof.proto format.	simpleperf/doc/README.md	/^# Convert perf.data in the current directory to pprof.proto format.$/;"	c
+DEFAULT_NDK_PATH	simpleperf/utils.py	/^DEFAULT_NDK_PATH = {$/;"	v
+DESCRIPTOR	simpleperf/profile_pb2.py	/^DESCRIPTOR = _descriptor.FileDescriptor($/;"	v
+Decide how long to record	simpleperf/doc/README.md	/^#### Decide how long to record$/;"	t
+Decide how long to stat	simpleperf/doc/README.md	/^#### Decide how long to stat$/;"	t
+Decide the print interval	simpleperf/doc/README.md	/^#### Decide the print interval$/;"	t
+Default option: --sort comm,pid,tid,dso,symbol. Group records in the same thread, and belong to	simpleperf/doc/README.md	/^# Default option: --sort comm,pid,tid,dso,symbol. Group records in the same thread, and belong t/;"	c
+Description	simpleperf/doc/inferno.md	/^### Description$/;"	S
+DisassemblyView	simpleperf/report_html.js	/^class DisassemblyView {$/;"	c	class:AnonymousFunction3144d0860100
+Display counters in systrace	simpleperf/doc/README.md	/^#### Display counters in systrace$/;"	t
+Dso	simpleperf/utils.py	/^    class Dso(object):$/;"	c	class:Addr2Nearestline
+DsoPeriod	simpleperf/annotate.py	/^class DsoPeriod(object):$/;"	c
+EVENT_COUNT_IN_TIME	simpleperf/report_html.js	/^            EVENT_COUNT_IN_TIME: 4,$/;"	p	class:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView.constructor.options
+EXPECTED_TOOLS	simpleperf/utils.py	/^EXPECTED_TOOLS = {$/;"	v
+EventReport	simpleperf/report.py	/^class EventReport(object):$/;"	c
+EventScope	simpleperf/report_html.py	/^class EventScope(object):$/;"	c
+EventStruct	simpleperf/simpleperf_report_lib.py	/^class EventStruct(ct.Structure):$/;"	c
+EventStructUsingStr	simpleperf/simpleperf_report_lib.py	/^class EventStructUsingStr(object):$/;"	c
+Example of bottleneck	simpleperf/doc/inferno.md	/^### Example of bottleneck$/;"	S
+Executable commands reference	simpleperf/doc/README.md	/^## Executable commands reference$/;"	s
+FONT_SIZE	simpleperf/inferno/svg_renderer.py	/^FONT_SIZE = 12$/;"	v
+FeatureSectionStructure	simpleperf/simpleperf_report_lib.py	/^class FeatureSectionStructure(ct.Structure):$/;"	c
+FilePeriod	simpleperf/annotate.py	/^class FilePeriod(object):$/;"	c
+FileResult	simpleperf/debug_unwind_reporter.py	/^class FileResult(object):$/;"	c
+Filter samples	simpleperf/doc/README.md	/^#### Filter samples$/;"	t
+FlameGraphCallSite	simpleperf/inferno/data_types.py	/^class FlameGraphCallSite:$/;"	c
+FlameGraphTab	simpleperf/report_html.js	/^class FlameGraphTab {$/;"	c	class:AnonymousFunction3144d0860100
+FlameGraphView	simpleperf/report_html.js	/^class FlameGraphView {$/;"	c	class:AnonymousFunction3144d0860100
+Function	simpleperf/pprof_proto_generator.py	/^class Function(object):$/;"	c
+Function	simpleperf/profile_pb2.py	/^Function = _reflection.GeneratedProtocolMessageType('Function', (_message.Message,), dict($/;"	v
+Function	simpleperf/report_html.py	/^class Function(object):$/;"	c
+FunctionResult	simpleperf/debug_unwind_reporter.py	/^class FunctionResult(object):$/;"	c
+FunctionSampleWeightSelectorView	simpleperf/report_html.js	/^class FunctionSampleWeightSelectorView {$/;"	c	class:AnonymousFunction3144d0860100
+FunctionScope	simpleperf/report_html.py	/^class FunctionScope(object):$/;"	c
+FunctionSet	simpleperf/report_html.py	/^class FunctionSet(object):$/;"	c
+FunctionTab	simpleperf/report_html.js	/^class FunctionTab {$/;"	c	class:AnonymousFunction3144d0860100
+Generate binary_cache for perf.data, by pulling binaries from the device.	simpleperf/doc/README.md	/^# Generate binary_cache for perf.data, by pulling binaries from the device.$/;"	c
+Generate binary_cache, by pulling binaries from the device and finding binaries in	simpleperf/doc/README.md	/^# Generate binary_cache, by pulling binaries from the device and finding binaries in$/;"	c
+Generate chart statistics, sample table and flame graphs, based on perf.data.	simpleperf/doc/README.md	/^# Generate chart statistics, sample table and flame graphs, based on perf.data.$/;"	c
+Generate flame graph based on perf.data.	simpleperf/doc/README.md	/^# Generate flame graph based on perf.data.$/;"	c
+GetArch	simpleperf/simpleperf_report_lib.py	/^    def GetArch(self):$/;"	m	class:ReportLib
+GetBuildIdForPath	simpleperf/simpleperf_report_lib.py	/^    def GetBuildIdForPath(self, path):$/;"	m	class:ReportLib
+GetCallChainOfCurrentSample	simpleperf/simpleperf_report_lib.py	/^    def GetCallChainOfCurrentSample(self):$/;"	m	class:ReportLib
+GetCurrentSample	simpleperf/simpleperf_report_lib.py	/^    def GetCurrentSample(self):$/;"	m	class:ReportLib
+GetEventOfCurrentSample	simpleperf/simpleperf_report_lib.py	/^    def GetEventOfCurrentSample(self):$/;"	m	class:ReportLib
+GetNextSample	simpleperf/simpleperf_report_lib.py	/^    def GetNextSample(self):$/;"	m	class:ReportLib
+GetRecordCmd	simpleperf/simpleperf_report_lib.py	/^    def GetRecordCmd(self):$/;"	m	class:ReportLib
+GetSymbolOfCurrentSample	simpleperf/simpleperf_report_lib.py	/^    def GetSymbolOfCurrentSample(self):$/;"	m	class:ReportLib
+Group records based on their binary and function: records in the same binary and function are in	simpleperf/doc/README.md	/^# Group records based on their binary and function: records in the same binary and function are /;"	c
+Group records based on their process id: records having the same process id are in the same	simpleperf/doc/README.md	/^# Group records based on their process id: records having the same process id are in the same$/;"	c
+Group records based on their thread id and thread comm: records having the same thread id and	simpleperf/doc/README.md	/^# Group records based on their thread id and thread comm: records having the same thread id and$/;"	c
+Group samples into sample entries	simpleperf/doc/README.md	/^#### Group samples into sample entries$/;"	t
+High percentage of lost samples	simpleperf/doc/inferno.md	/^#### High percentage of lost samples$/;"	t
+HostElfEntry	simpleperf/app_profiler.py	/^class HostElfEntry(object):$/;"	c
+How it works	simpleperf/doc/inferno.md	/^### How it works$/;"	S
+How simpleperf works	simpleperf/doc/README.md	/^### How simpleperf works$/;"	S
+How to solve missing symbols in report?	simpleperf/doc/README.md	/^### How to solve missing symbols in report?$/;"	S
+How to use it	simpleperf/doc/inferno.md	/^### How to use it$/;"	S
+HtmlWriter	simpleperf/report_html.py	/^class HtmlWriter(object):$/;"	c
+INFO_NODE_ORIGIN_X	simpleperf/inferno/svg_renderer.py	/^INFO_NODE_ORIGIN_X = 120$/;"	v
+INFO_NODE_WIDTH	simpleperf/inferno/svg_renderer.py	/^INFO_NODE_WIDTH = 800$/;"	v
+In this case, when simpleperf wants to read executable binary /A/b, it prefers file in	simpleperf/doc/README.md	/^# In this case, when simpleperf wants to read executable binary \/A\/b, it prefers file in$/;"	c
+In this case, when simpleperf wants to read executable binary /A/b, it reads file in /A/b.	simpleperf/doc/README.md	/^# In this case, when simpleperf wants to read executable binary \/A\/b, it reads file in \/A\/b.$/;"	c
+Inferno	simpleperf/doc/inferno.md	/^## Inferno$/;"	s
+Introduction	simpleperf/doc/README.md	/^## Introduction$/;"	s
+It may take a while to stop recording. After that, the profiling data is collected in perf.data	simpleperf/doc/README.md	/^# It may take a while to stop recording. After that, the profiling data is collected in perf.dat/;"	c
+Label	simpleperf/profile_pb2.py	/^Label = _reflection.GeneratedProtocolMessageType('Label', (_message.Message,), dict($/;"	v
+LibScope	simpleperf/report_html.py	/^class LibScope(object):$/;"	c
+LibSet	simpleperf/report_html.py	/^class LibSet(object):$/;"	c
+Line	simpleperf/pprof_proto_generator.py	/^class Line(object):$/;"	c
+Line	simpleperf/profile_pb2.py	/^Line = _reflection.GeneratedProtocolMessageType('Line', (_message.Message,), dict($/;"	v
+List all commands.	simpleperf/doc/README.md	/^# List all commands.$/;"	c
+Location	simpleperf/pprof_proto_generator.py	/^class Location(object):$/;"	c
+Location	simpleperf/profile_pb2.py	/^Location = _reflection.GeneratedProtocolMessageType('Location', (_message.Message,), dict($/;"	v
+MapEntry	simpleperf/debug_unwind_reporter.py	/^class MapEntry(object):$/;"	c
+Mapping	simpleperf/pprof_proto_generator.py	/^class Mapping(object):$/;"	c
+Mapping	simpleperf/profile_pb2.py	/^Mapping = _reflection.GeneratedProtocolMessageType('Mapping', (_message.Message,), dict($/;"	v
+MappingStruct	simpleperf/simpleperf_report_lib.py	/^class MappingStruct(ct.Structure):$/;"	c
+Messy flame graph	simpleperf/doc/inferno.md	/^#### Messy flame graph$/;"	t
+MetaInfo	simpleperf/simpleperf_report_lib.py	/^    def MetaInfo(self):$/;"	m	class:ReportLib
+NATIVE_LIBS_DIR_ON_DEVICE	simpleperf/app_profiler.py	/^NATIVE_LIBS_DIR_ON_DEVICE = '\/data\/local\/tmp\/native_libs\/'$/;"	v
+NativeCommandProfiler	simpleperf/app_profiler.py	/^class NativeCommandProfiler(ProfilerBase):$/;"	c
+NativeLibDownloader	simpleperf/app_profiler.py	/^class NativeLibDownloader(object):$/;"	c
+NativeProgramProfiler	simpleperf/app_profiler.py	/^class NativeProgramProfiler(ProfilerBase):$/;"	c
+No flames	simpleperf/doc/inferno.md	/^#### No flames$/;"	t
+Objdump	simpleperf/utils.py	/^class Objdump(object):$/;"	c
+On Windows, use inferno.bat instead of ./inferno.sh.	simpleperf/doc/README.md	/^# On Windows, use inferno.bat instead of .\/inferno.sh.$/;"	c
+On host launch systrace to collect trace for 10 seconds.	simpleperf/doc/README.md	/^# On host launch systrace to collect trace for 10 seconds.$/;"	c
+On windows, use "gradlew" instead.	simpleperf/doc/README.md	/^# On windows, use "gradlew" instead.$/;"	c
+Open SimpleperfExamplesWithNative project with Android studio, and build this project	simpleperf/doc/README.md	/^# Open SimpleperfExamplesWithNative project with Android studio, and build this project$/;"	c
+Open the collected new.html in browser and perf counters will be shown up.	simpleperf/doc/README.md	/^# Open the collected new.html in browser and perf counters will be shown up.$/;"	c
+PAD_X	simpleperf/report.py	/^PAD_X = 3$/;"	v
+PAD_Y	simpleperf/report.py	/^PAD_Y = 3$/;"	v
+PERCENT_NODE_ORIGIN_X	simpleperf/inferno/svg_renderer.py	/^PERCENT_NODE_ORIGIN_X = 930$/;"	v
+PERCENT_NODE_WIDTH	simpleperf/inferno/svg_renderer.py	/^PERCENT_NODE_WIDTH = 250$/;"	v
+PERCENT_TO_ALL_PROCESSES	simpleperf/report_html.js	/^            PERCENT_TO_ALL_PROCESSES: 0,$/;"	p	class:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView.constructor.options
+PERCENT_TO_CUR_PROCESS	simpleperf/report_html.js	/^            PERCENT_TO_CUR_PROCESS: 1,$/;"	p	class:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView.constructor.options
+PERCENT_TO_CUR_THREAD	simpleperf/report_html.js	/^            PERCENT_TO_CUR_THREAD: 2,$/;"	p	class:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView.constructor.options
+Parameters	simpleperf/doc/inferno.md	/^### Parameters$/;"	S
+Parse profiling data manually	simpleperf/doc/README.md	/^### Parse profiling data manually$/;"	S
+Period	simpleperf/annotate.py	/^class Period(object):$/;"	c
+PprofProfileGenerator	simpleperf/pprof_proto_generator.py	/^class PprofProfileGenerator(object):$/;"	c
+PprofProfilePrinter	simpleperf/pprof_proto_generator.py	/^class PprofProfilePrinter(object):$/;"	c
+Prepare an Android application	simpleperf/doc/README.md	/^### Prepare an Android application$/;"	S
+Print help message for record command.	simpleperf/doc/README.md	/^# Print help message for record command.$/;"	c
+Print stat for process 11904 every 300ms.	simpleperf/doc/README.md	/^# Print stat for process 11904 every 300ms.$/;"	c
+Print system wide stat at interval of 300ms for 10 seconds. Note that system wide profiling needs	simpleperf/doc/README.md	/^# Print system wide stat at interval of 300ms for 10 seconds. Note that system wide profiling ne/;"	c
+Process	simpleperf/inferno/data_types.py	/^class Process:$/;"	c
+ProcessMaps	simpleperf/debug_unwind_reporter.py	/^class ProcessMaps(object):$/;"	c
+ProcessScope	simpleperf/report_html.py	/^class ProcessScope(object):$/;"	c
+Profile	simpleperf/profile_pb2.py	/^Profile = _reflection.GeneratedProtocolMessageType('Profile', (_message.Message,), dict($/;"	v
+Profile from launch	simpleperf/doc/README.md	/^### Profile from launch$/;"	S
+Profile from launch of an application	simpleperf/doc/README.md	/^#### Profile from launch of an application$/;"	t
+ProfilerBase	simpleperf/app_profiler.py	/^class ProfilerBase(object):$/;"	c
+RAW_EVENT_COUNT	simpleperf/report_html.js	/^            RAW_EVENT_COUNT: 3,$/;"	p	class:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView.constructor.options
+RECT_TEXT_PADDING	simpleperf/inferno/svg_renderer.py	/^RECT_TEXT_PADDING = 10$/;"	v
+ReadElf	simpleperf/utils.py	/^class ReadElf(object):$/;"	c
+Record a child process running `ls`.	simpleperf/doc/README.md	/^# Record a child process running `ls`.$/;"	c
+Record a command.	simpleperf/doc/README.md	/^# Record a command.$/;"	c
+Record a debuggable Android application.	simpleperf/doc/README.md	/^# Record a debuggable Android application.$/;"	c
+Record a dwarf based call graph	simpleperf/doc/README.md	/^# Record a dwarf based call graph$/;"	c
+Record a native process.	simpleperf/doc/README.md	/^# Record a native process.$/;"	c
+Record a native program and generate flame graph.	simpleperf/doc/README.md	/^# Record a native program and generate flame graph.$/;"	c
+Record a stack frame based call graph	simpleperf/doc/README.md	/^# Record a stack frame based call graph$/;"	c
+Record an Android application with Java code compiled into native instructions.	simpleperf/doc/README.md	/^# Record an Android application with Java code compiled into native instructions.$/;"	c
+Record an Android application, and use -r to send custom options to the record command.	simpleperf/doc/README.md	/^# Record an Android application, and use -r to send custom options to the record command.$/;"	c
+Record an Android application.	simpleperf/doc/README.md	/^# Record an Android application.$/;"	c
+Record and report call graph	simpleperf/doc/README.md	/^### Record and report call graph$/;"	S
+Record and report profiling data	simpleperf/doc/README.md	/^### Record and report profiling data$/;"	S
+Record both on CPU time and off CPU time	simpleperf/doc/README.md	/^### Record both on CPU time and off CPU time$/;"	S
+Record both on CPU time and off CPU time	simpleperf/doc/README.md	/^#### Record both on CPU time and off CPU time$/;"	t
+Record both on CPU time and off CPU time.	simpleperf/doc/README.md	/^# Record both on CPU time and off CPU time.$/;"	c
+Record call graphs	simpleperf/doc/README.md	/^#### Record call graphs$/;"	t
+Record dwarf based call graphs: add "-g" in the -r option.	simpleperf/doc/README.md	/^# Record dwarf based call graphs: add "-g" in the -r option.$/;"	c
+Record on process 7394 for 10 seconds, using default event (cpu-cycles), using default sample	simpleperf/doc/README.md	/^# Record on process 7394 for 10 seconds, using default event (cpu-cycles), using default sample$/;"	c
+Record process 11904 and 11905.	simpleperf/doc/README.md	/^# Record process 11904 and 11905.$/;"	c
+Record process 11904 for 10 seconds.	simpleperf/doc/README.md	/^# Record process 11904 for 10 seconds.$/;"	c
+Record stack frame based call graphs: add "--call-graph fp" in the -r option.	simpleperf/doc/README.md	/^# Record stack frame based call graphs: add "--call-graph fp" in the -r option.$/;"	c
+Record system wide.	simpleperf/doc/README.md	/^# Record system wide.$/;"	c
+Record the launch of an Activity of an Android application.	simpleperf/doc/README.md	/^# Record the launch of an Activity of an Android application.$/;"	c
+Record thread 11904 and 11905.	simpleperf/doc/README.md	/^# Record thread 11904 and 11905.$/;"	c
+Record until the child process running `ls` finishes.	simpleperf/doc/README.md	/^# Record until the child process running `ls` finishes.$/;"	c
+Record using event instructions.	simpleperf/doc/README.md	/^# Record using event instructions.$/;"	c
+Record using task-clock, which shows the passed CPU time in nanoseconds.	simpleperf/doc/README.md	/^# Record using task-clock, which shows the passed CPU time in nanoseconds.$/;"	c
+Record with --trace-offcpu using app_profiler.py.	simpleperf/doc/README.md	/^# Record with --trace-offcpu using app_profiler.py.$/;"	c
+Record with --trace-offcpu.	simpleperf/doc/README.md	/^# Record with --trace-offcpu.$/;"	c
+Record with sample frequency 1000: sample 1000 times every second running.	simpleperf/doc/README.md	/^# Record with sample frequency 1000: sample 1000 times every second running.$/;"	c
+Record with sample period 100000: sample 1 time every 100000 events.	simpleperf/doc/README.md	/^# Record with sample period 100000: sample 1 time every 100000 events.$/;"	c
+RecordData	simpleperf/report_html.py	/^class RecordData(object):$/;"	c
+RecordFileView	simpleperf/report_html.js	/^class RecordFileView {$/;"	c	class:AnonymousFunction3144d0860100
+Report call graph	simpleperf/doc/README.md	/^# Report call graph$/;"	c
+Report call graph in a GUI window implemented by Python Tk.	simpleperf/doc/README.md	/^# Report call graph in a GUI window implemented by Python Tk.$/;"	c
+Report call graphs	simpleperf/doc/README.md	/^#### Report call graphs$/;"	t
+Report call graphs in flame graphs.	simpleperf/doc/README.md	/^# Report call graphs in flame graphs.$/;"	c
+Report call graphs in html interface.	simpleperf/doc/README.md	/^# Report call graphs in html interface.$/;"	c
+Report call graphs in python Tk interface.	simpleperf/doc/README.md	/^# Report call graphs in python Tk interface.$/;"	c
+Report call graphs in stdio interface.	simpleperf/doc/README.md	/^# Report call graphs in stdio interface.$/;"	c
+Report in html interface	simpleperf/doc/README.md	/^### Report in html interface$/;"	S
+Report perf.data in html interface.	simpleperf/doc/README.md	/^# Report perf.data in html interface.$/;"	c
+Report perf.data in stdio interface.	simpleperf/doc/README.md	/^# Report perf.data in stdio interface.$/;"	c
+Report records in libsudo-game-jni.so.	simpleperf/doc/README.md	/^# Report records in libsudo-game-jni.so.$/;"	c
+Report records in process 7394 or 7395	simpleperf/doc/README.md	/^# Report records in process 7394 or 7395$/;"	c
+Report records in thread 7394 or 7395.	simpleperf/doc/README.md	/^# Report records in thread 7394 or 7395.$/;"	c
+Report records in threads having name sudogame.	simpleperf/doc/README.md	/^# Report records in threads having name sudogame.$/;"	c
+ReportGenerator	simpleperf/report_html.py	/^class ReportGenerator(object):$/;"	c
+ReportItem	simpleperf/report.py	/^class ReportItem(object):$/;"	c
+ReportLib	simpleperf/simpleperf_report_lib.py	/^class ReportLib(object):$/;"	c
+ReportLibStructure	simpleperf/simpleperf_report_lib.py	/^class ReportLibStructure(ct.Structure):$/;"	c
+ReportWindow	simpleperf/report.py	/^class ReportWindow(object):$/;"	c
+Reports perf.data, using only records sampled in libsudo-game-jni.so, grouping records using	simpleperf/doc/README.md	/^# Reports perf.data, using only records sampled in libsudo-game-jni.so, grouping records using$/;"	c
+SEARCH_NODE_ORIGIN_X	simpleperf/inferno/svg_renderer.py	/^SEARCH_NODE_ORIGIN_X = 1190$/;"	v
+SEARCH_NODE_WIDTH	simpleperf/inferno/svg_renderer.py	/^SEARCH_NODE_WIDTH = 80$/;"	v
+SHOW_EVENT_COUNT	simpleperf/report_html.js	/^            SHOW_EVENT_COUNT: 1,$/;"	p	class:AnonymousFunction3144d0860100.SampleTableWeightSelectorView.constructor.options
+SHOW_EVENT_INFO	simpleperf/report_html.js	/^            SHOW_EVENT_INFO: 1,$/;"	p	class:AnonymousFunction3144d0860100.ChartView.constructor.states
+SHOW_LIB_INFO	simpleperf/report_html.js	/^            SHOW_LIB_INFO: 4,$/;"	p	class:AnonymousFunction3144d0860100.ChartView.constructor.states
+SHOW_PERCENT	simpleperf/report_html.js	/^            SHOW_PERCENT: 0,$/;"	p	class:AnonymousFunction3144d0860100.SampleTableWeightSelectorView.constructor.options
+SHOW_PROCESS_INFO	simpleperf/report_html.js	/^            SHOW_PROCESS_INFO: 2,$/;"	p	class:AnonymousFunction3144d0860100.ChartView.constructor.states
+SHOW_THREAD_INFO	simpleperf/report_html.js	/^            SHOW_THREAD_INFO: 3,$/;"	p	class:AnonymousFunction3144d0860100.ChartView.constructor.states
+SOURCE_FILE_EXTS	simpleperf/report_html.py	/^    SOURCE_FILE_EXTS = {'.h', '.hh', '.H', '.hxx', '.hpp', '.h++',$/;"	v	class:SourceFileSearcher
+SVG_NODE_HEIGHT	simpleperf/inferno/svg_renderer.py	/^SVG_NODE_HEIGHT = 17$/;"	v
+Sample	simpleperf/pprof_proto_generator.py	/^class Sample(object):$/;"	c
+Sample	simpleperf/profile_pb2.py	/^Sample = _reflection.GeneratedProtocolMessageType('Sample', (_message.Message,), dict($/;"	v
+SampleResult	simpleperf/debug_unwind_reporter.py	/^class SampleResult(object):$/;"	c
+SampleStruct	simpleperf/simpleperf_report_lib.py	/^class SampleStruct(ct.Structure):$/;"	c
+SampleStructUsingStr	simpleperf/simpleperf_report_lib.py	/^class SampleStructUsingStr(object):$/;"	c
+SampleTableTab	simpleperf/report_html.js	/^class SampleTableTab {$/;"	c	class:AnonymousFunction3144d0860100
+SampleTableView	simpleperf/report_html.js	/^class SampleTableView {$/;"	c	class:AnonymousFunction3144d0860100
+SampleTableWeightSelectorView	simpleperf/report_html.js	/^class SampleTableWeightSelectorView {$/;"	c	class:AnonymousFunction3144d0860100
+Scripts reference	simpleperf/doc/README.md	/^## Scripts reference$/;"	s
+Select events to record	simpleperf/doc/README.md	/^#### Select events to record$/;"	t
+Select events to stat	simpleperf/doc/README.md	/^#### Select events to stat$/;"	t
+Select target to record	simpleperf/doc/README.md	/^#### Select target to record$/;"	t
+Select target to stat	simpleperf/doc/README.md	/^#### Select target to stat$/;"	t
+Set the frequency to record	simpleperf/doc/README.md	/^#### Set the frequency to record$/;"	t
+Set the path to find binaries	simpleperf/doc/README.md	/^#### Set the path to find binaries$/;"	t
+Set the path to read profiling data	simpleperf/doc/README.md	/^#### Set the path to read profiling data$/;"	t
+Set the path to store profiling data	simpleperf/doc/README.md	/^#### Set the path to store profiling data$/;"	t
+SetKallsymsFile	simpleperf/simpleperf_report_lib.py	/^    def SetKallsymsFile(self, kallsym_file):$/;"	m	class:ReportLib
+SetLogSeverity	simpleperf/simpleperf_report_lib.py	/^    def SetLogSeverity(self, log_level='info'):$/;"	m	class:ReportLib
+SetRecordFile	simpleperf/simpleperf_report_lib.py	/^    def SetRecordFile(self, record_file):$/;"	m	class:ReportLib
+SetSymfs	simpleperf/simpleperf_report_lib.py	/^    def SetSymfs(self, symfs_dir):$/;"	m	class:ReportLib
+Show flame graph	simpleperf/doc/README.md	/^### Show flame graph$/;"	S
+ShowArtFrames	simpleperf/simpleperf_report_lib.py	/^    def ShowArtFrames(self, show=True):$/;"	m	class:ReportLib
+ShowIpForUnknownSymbol	simpleperf/simpleperf_report_lib.py	/^    def ShowIpForUnknownSymbol(self):$/;"	m	class:ReportLib
+Simpleperf	simpleperf/doc/README.md	/^# Simpleperf$/;"	c
+SimpleperfExampleWithNative app. After a few seconds, plug in the USB cable.	simpleperf/doc/README.md	/^# SimpleperfExampleWithNative app. After a few seconds, plug in the USB cable.$/;"	c
+SimpleperfExampleWithNative.	simpleperf/doc/README.md	/^# SimpleperfExampleWithNative.$/;"	c
+SourceCodeView	simpleperf/report_html.js	/^class SourceCodeView {$/;"	c	class:AnonymousFunction3144d0860100
+SourceFile	simpleperf/report_html.js	/^class SourceFile {$/;"	c	class:AnonymousFunction3144d0860100
+SourceFile	simpleperf/report_html.py	/^class SourceFile(object):$/;"	c
+SourceFileAnnotator	simpleperf/annotate.py	/^class SourceFileAnnotator(object):$/;"	c
+SourceFileSearcher	simpleperf/report_html.py	/^class SourceFileSearcher(object):$/;"	c
+SourceFileSet	simpleperf/report_html.py	/^class SourceFileSet(object):$/;"	c
+SourceLine	simpleperf/annotate.py	/^class SourceLine(object):$/;"	c
+Start a child process running `ls`, and stat it.	simpleperf/doc/README.md	/^# Start a child process running `ls`, and stat it.$/;"	c
+Start simpleperf recording, then start the Activity to profile.	simpleperf/doc/README.md	/^# Start simpleperf recording, then start the Activity to profile.$/;"	c
+Start the app manually or using the `am` command.	simpleperf/doc/README.md	/^# Start the app manually or using the `am` command.$/;"	c
+Stat a debuggable Android application.	simpleperf/doc/README.md	/^# Stat a debuggable Android application.$/;"	c
+Stat event cache-references and cache-misses.	simpleperf/doc/README.md	/^# Stat event cache-references and cache-misses.$/;"	c
+Stat event cpu-cycles.	simpleperf/doc/README.md	/^# Stat event cpu-cycles.$/;"	c
+Stat process 11904 and 11905.	simpleperf/doc/README.md	/^# Stat process 11904 and 11905.$/;"	c
+Stat process 11904 for 10 seconds.	simpleperf/doc/README.md	/^# Stat process 11904 for 10 seconds.$/;"	c
+Stat system wide using -a.	simpleperf/doc/README.md	/^# Stat system wide using -a.$/;"	c
+Stat thread 11904 and 11905.	simpleperf/doc/README.md	/^# Stat thread 11904 and 11905.$/;"	c
+Stat until the child process running `ls` finishes.	simpleperf/doc/README.md	/^# Stat until the child process running `ls` finishes.$/;"	c
+Stat using default events (cpu-cycles,instructions,...), and monitor process 7394 for 10 seconds.	simpleperf/doc/README.md	/^# Stat using default events (cpu-cycles,instructions,...), and monitor process 7394 for 10 secon/;"	c
+Stat using event cache-references, cache-references:u,....	simpleperf/doc/README.md	/^# Stat using event cache-references, cache-references:u,....$/;"	c
+Stop monitoring using Ctrl-C.	simpleperf/doc/README.md	/^# Stop monitoring using Ctrl-C.$/;"	c
+Suggestions about recording call graphs	simpleperf/doc/README.md	/^### Suggestions about recording call graphs$/;"	S
+SymbolStruct	simpleperf/simpleperf_report_lib.py	/^class SymbolStruct(ct.Structure):$/;"	c
+SymbolStructUsingStr	simpleperf/simpleperf_report_lib.py	/^class SymbolStructUsingStr(object):$/;"	c
+TabManager	simpleperf/report_html.js	/^class TabManager {$/;"	c	class:AnonymousFunction3144d0860100
+Table of Contents	simpleperf/doc/README.md	/^## Table of Contents$/;"	s
+The list command	simpleperf/doc/README.md	/^### The list command$/;"	S
+The record command	simpleperf/doc/README.md	/^### The record command$/;"	S
+The report command	simpleperf/doc/README.md	/^### The report command$/;"	S
+The stat command	simpleperf/doc/README.md	/^### The stat command$/;"	S
+Thread	simpleperf/inferno/data_types.py	/^class Thread:$/;"	c
+ThreadScope	simpleperf/report_html.py	/^class ThreadScope(object):$/;"	c
+Tools in simpleperf	simpleperf/doc/README.md	/^## Tools in simpleperf$/;"	s
+Troubleshooting	simpleperf/doc/inferno.md	/^### Troubleshooting$/;"	S
+UNZOOM_NODE_ORIGIN_X	simpleperf/inferno/svg_renderer.py	/^UNZOOM_NODE_ORIGIN_X = 10$/;"	v
+UNZOOM_NODE_WIDTH	simpleperf/inferno/svg_renderer.py	/^UNZOOM_NODE_WIDTH = 80$/;"	v
+UnwindingMemConsumption	simpleperf/debug_unwind_reporter.py	/^class UnwindingMemConsumption(object):$/;"	c
+UnwindingResultErrorReport	simpleperf/debug_unwind_reporter.py	/^class UnwindingResultErrorReport(object):$/;"	c
+UnwindingTimes	simpleperf/debug_unwind_reporter.py	/^class UnwindingTimes(object):$/;"	c
+ValueType	simpleperf/profile_pb2.py	/^ValueType = _reflection.GeneratedProtocolMessageType('ValueType', (_message.Message,), dict($/;"	v
+We can also start the Activity on the device manually.	simpleperf/doc/README.md	/^# We can also start the Activity on the device manually.$/;"	c
+Why we suggest profiling on Android >= N devices?	simpleperf/doc/README.md	/^### Why we suggest profiling on Android >= N devices?$/;"	S
+Write records to data/perf2.data.	simpleperf/doc/README.md	/^# Write records to data\/perf2.data.$/;"	c
+_FUNCTION	simpleperf/profile_pb2.py	/^_FUNCTION = _descriptor.Descriptor($/;"	v
+_GetFeatureString	simpleperf/simpleperf_report_lib.py	/^    def _GetFeatureString(self, feature_name):$/;"	m	class:ReportLib
+_LABEL	simpleperf/profile_pb2.py	/^_LABEL = _descriptor.Descriptor($/;"	v
+_LINE	simpleperf/profile_pb2.py	/^_LINE = _descriptor.Descriptor($/;"	v
+_LOCATION	simpleperf/profile_pb2.py	/^_LOCATION = _descriptor.Descriptor($/;"	v
+_MAPPING	simpleperf/profile_pb2.py	/^_MAPPING = _descriptor.Descriptor($/;"	v
+_PROFILE	simpleperf/profile_pb2.py	/^_PROFILE = _descriptor.Descriptor($/;"	v
+_SAMPLE	simpleperf/profile_pb2.py	/^_SAMPLE = _descriptor.Descriptor($/;"	v
+_VALUETYPE	simpleperf/profile_pb2.py	/^_VALUETYPE = _descriptor.Descriptor($/;"	v
+__iadd__	simpleperf/annotate.py	/^    def __iadd__(self, other):$/;"	m	class:Period
+__init__	simpleperf/annotate.py	/^    def __init__(self, config):$/;"	m	class:SourceFileAnnotator
+__init__	simpleperf/annotate.py	/^    def __init__(self, dso_name):$/;"	m	class:DsoPeriod
+__init__	simpleperf/annotate.py	/^    def __init__(self, file):$/;"	m	class:FilePeriod
+__init__	simpleperf/annotate.py	/^    def __init__(self, file, function, line):$/;"	m	class:SourceLine
+__init__	simpleperf/annotate.py	/^    def __init__(self, ndk_path, symfs_dir=None):$/;"	m	class:Addr2Line
+__init__	simpleperf/annotate.py	/^    def __init__(self, period=0, acc_period=0):$/;"	m	class:Period
+__init__	simpleperf/app_profiler.py	/^    def __init__(self, args):$/;"	m	class:ProfilerBase
+__init__	simpleperf/app_profiler.py	/^    def __init__(self, ndk_path, device_arch, adb):$/;"	m	class:NativeLibDownloader
+__init__	simpleperf/app_profiler.py	/^    def __init__(self, path, name, score):$/;"	m	class:HostElfEntry
+__init__	simpleperf/binary_cache_builder.py	/^    def __init__(self, config):$/;"	m	class:BinaryCacheBuilder
+__init__	simpleperf/debug_unwind_reporter.py	/^    def __init__(self):$/;"	m	class:CallChainRecord
+__init__	simpleperf/debug_unwind_reporter.py	/^    def __init__(self):$/;"	m	class:FileResult
+__init__	simpleperf/debug_unwind_reporter.py	/^    def __init__(self):$/;"	m	class:FunctionResult
+__init__	simpleperf/debug_unwind_reporter.py	/^    def __init__(self):$/;"	m	class:ProcessMaps
+__init__	simpleperf/debug_unwind_reporter.py	/^    def __init__(self):$/;"	m	class:UnwindingTimes
+__init__	simpleperf/debug_unwind_reporter.py	/^    def __init__(self, ip, sp, filename, vaddr_in_file, function_name, map_start_addr,$/;"	m	class:CallChainNode
+__init__	simpleperf/debug_unwind_reporter.py	/^    def __init__(self, omit_callchains_fixed_by_joiner):$/;"	m	class:UnwindingResultErrorReport
+__init__	simpleperf/debug_unwind_reporter.py	/^    def __init__(self, pid, tid, unwinding_result, callchain, sample_record):$/;"	m	class:SampleResult
+__init__	simpleperf/debug_unwind_reporter.py	/^    def __init__(self, start, end, filename):$/;"	m	class:MapEntry
+__init__	simpleperf/inferno/data_types.py	/^    def __init__(self, method, dso):$/;"	m	class:CallSite
+__init__	simpleperf/inferno/data_types.py	/^    def __init__(self, method, dso, id):$/;"	m	class:FlameGraphCallSite
+__init__	simpleperf/inferno/data_types.py	/^    def __init__(self, name, pid):$/;"	m	class:Process
+__init__	simpleperf/inferno/data_types.py	/^    def __init__(self, tid, pid):$/;"	m	class:Thread
+__init__	simpleperf/pprof_proto_generator.py	/^    def __init__(self):$/;"	m	class:Line
+__init__	simpleperf/pprof_proto_generator.py	/^    def __init__(self):$/;"	m	class:Sample
+__init__	simpleperf/pprof_proto_generator.py	/^    def __init__(self, config):$/;"	m	class:PprofProfileGenerator
+__init__	simpleperf/pprof_proto_generator.py	/^    def __init__(self, mapping_id, address, vaddr_in_dso):$/;"	m	class:Location
+__init__	simpleperf/pprof_proto_generator.py	/^    def __init__(self, name_id, dso_name_id, vaddr_in_dso):$/;"	m	class:Function
+__init__	simpleperf/pprof_proto_generator.py	/^    def __init__(self, profile):$/;"	m	class:PprofProfilePrinter
+__init__	simpleperf/pprof_proto_generator.py	/^    def __init__(self, start, end, pgoff, filename_id, build_id_id):$/;"	m	class:Mapping
+__init__	simpleperf/report.py	/^  def __init__(self, common_report_context):$/;"	m	class:EventReport
+__init__	simpleperf/report.py	/^  def __init__(self, master, report_context, title_line, report_items):$/;"	m	class:ReportWindow
+__init__	simpleperf/report.py	/^  def __init__(self, percentage, function_name):$/;"	m	class:CallTreeNode
+__init__	simpleperf/report.py	/^  def __init__(self, raw_line):$/;"	m	class:ReportItem
+__init__	simpleperf/report_html.py	/^    def __init__(self):$/;"	m	class:FunctionSet
+__init__	simpleperf/report_html.py	/^    def __init__(self):$/;"	m	class:LibSet
+__init__	simpleperf/report_html.py	/^    def __init__(self):$/;"	m	class:SourceFileSet
+__init__	simpleperf/report_html.py	/^    def __init__(self, binary_cache_path, ndk_path, build_addr_hit_map):$/;"	m	class:RecordData
+__init__	simpleperf/report_html.py	/^    def __init__(self, file_id, abstract_path):$/;"	m	class:SourceFile
+__init__	simpleperf/report_html.py	/^    def __init__(self, func_id):$/;"	m	class:CallNode
+__init__	simpleperf/report_html.py	/^    def __init__(self, func_id):$/;"	m	class:FunctionScope
+__init__	simpleperf/report_html.py	/^    def __init__(self, html_path):$/;"	m	class:ReportGenerator
+__init__	simpleperf/report_html.py	/^    def __init__(self, lib_id):$/;"	m	class:LibScope
+__init__	simpleperf/report_html.py	/^    def __init__(self, lib_id, func_name, func_id, start_addr, addr_len):$/;"	m	class:Function
+__init__	simpleperf/report_html.py	/^    def __init__(self, name):$/;"	m	class:EventScope
+__init__	simpleperf/report_html.py	/^    def __init__(self, output_path):$/;"	m	class:HtmlWriter
+__init__	simpleperf/report_html.py	/^    def __init__(self, pid):$/;"	m	class:ProcessScope
+__init__	simpleperf/report_html.py	/^    def __init__(self, source_dirs):$/;"	m	class:SourceFileSearcher
+__init__	simpleperf/report_html.py	/^    def __init__(self, tid):$/;"	m	class:ThreadScope
+__init__	simpleperf/simpleperf_report_lib.py	/^    def __init__(self, callchain):$/;"	m	class:CallChainStructureUsingStr
+__init__	simpleperf/simpleperf_report_lib.py	/^    def __init__(self, entry):$/;"	m	class:CallChainEntryStructureUsingStr
+__init__	simpleperf/simpleperf_report_lib.py	/^    def __init__(self, event):$/;"	m	class:EventStructUsingStr
+__init__	simpleperf/simpleperf_report_lib.py	/^    def __init__(self, native_lib_path=None):$/;"	m	class:ReportLib
+__init__	simpleperf/simpleperf_report_lib.py	/^    def __init__(self, sample):$/;"	m	class:SampleStructUsingStr
+__init__	simpleperf/simpleperf_report_lib.py	/^    def __init__(self, symbol):$/;"	m	class:SymbolStructUsingStr
+__init__	simpleperf/utils.py	/^        def __init__(self):$/;"	m	class:Addr2Nearestline.Dso
+__init__	simpleperf/utils.py	/^        def __init__(self, func_addr):$/;"	m	class:Addr2Nearestline.Addr
+__init__	simpleperf/utils.py	/^    def __init__(self, enable_switch_to_root=True):$/;"	m	class:AdbHelper
+__init__	simpleperf/utils.py	/^    def __init__(self, ndk_path):$/;"	m	class:ReadElf
+__init__	simpleperf/utils.py	/^    def __init__(self, ndk_path, binary_cache_path):$/;"	m	class:Addr2Nearestline
+__init__	simpleperf/utils.py	/^    def __init__(self, ndk_path, binary_cache_path):$/;"	m	class:Objdump
+__init___	simpleperf/debug_unwind_reporter.py	/^    def __init___(self):$/;"	m	class:UnwindingMemConsumption
+__lt__	simpleperf/debug_unwind_reporter.py	/^    def __lt__(self, other):$/;"	m	class:MapEntry
+__repr__	simpleperf/app_profiler.py	/^    def __repr__(self):$/;"	m	class:HostElfEntry
+__str__	simpleperf/app_profiler.py	/^    def __str__(self):$/;"	m	class:HostElfEntry
+__str__	simpleperf/report.py	/^  def __str__(self):$/;"	m	class:CallTreeNode
+__str__	simpleperf/report.py	/^  def __str__(self):$/;"	m	class:ReportItem
+_add_dso_period	simpleperf/annotate.py	/^    def _add_dso_period(self, dso_name, period, used_dso_dict):$/;"	m	class:SourceFileAnnotator
+_add_file_period	simpleperf/annotate.py	/^    def _add_file_period(self, source, period, used_file_dict):$/;"	m	class:SourceFileAnnotator
+_add_function_period	simpleperf/annotate.py	/^    def _add_function_period(self, source, period, used_function_dict):$/;"	m	class:SourceFileAnnotator
+_add_line_period	simpleperf/annotate.py	/^    def _add_line_period(self, source, period, used_line_dict):$/;"	m	class:SourceFileAnnotator
+_adjustTextSize	simpleperf/report_html.js	/^    _adjustTextSize() {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_adjustTextSizeForNode	simpleperf/report_html.js	/^    _adjustTextSizeForNode(g) {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_adjustTextSizeOnResize	simpleperf/report_html.js	/^    _adjustTextSizeOnResize() {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_annotate_file	simpleperf/annotate.py	/^    def _annotate_file(self, from_path, to_path, file_period, is_java):$/;"	m	class:SourceFileAnnotator
+_annotate_files	simpleperf/annotate.py	/^    def _annotate_files(self):$/;"	m	class:SourceFileAnnotator
+_b	simpleperf/profile_pb2.py	/^_b=sys.version_info[0]<3 and (lambda x:x) or (lambda x:x.encode('latin1'))$/;"	v
+_char_pt	simpleperf/simpleperf_report_lib.py	/^def _char_pt(s):$/;"	f
+_char_pt_to_str	simpleperf/simpleperf_report_lib.py	/^def _char_pt_to_str(char_pt):$/;"	f
+_check	simpleperf/simpleperf_report_lib.py	/^    def _check(self, cond, failmsg):$/;"	m	class:ReportLib
+_check_and_pull_binary	simpleperf/binary_cache_builder.py	/^    def _check_and_pull_binary(self, binary, expected_build_id, binary_cache_file):$/;"	m	class:BinaryCacheBuilder
+_check_debug_line_section	simpleperf/utils.py	/^    def _check_debug_line_section(self, real_path):$/;"	m	class:Addr2Nearestline
+_collect_addrs	simpleperf/annotate.py	/^    def _collect_addrs(self):$/;"	m	class:SourceFileAnnotator
+_collect_line_info	simpleperf/utils.py	/^    def _collect_line_info(self, dso, real_path, addr_shifts):$/;"	m	class:Addr2Nearestline
+_collect_paths	simpleperf/report_html.py	/^    def _collect_paths(self, source_dirs):$/;"	m	class:SourceFileSearcher
+_collect_source_files	simpleperf/annotate.py	/^    def _collect_source_files(self):$/;"	m	class:SourceFileAnnotator
+_collect_used_binaries	simpleperf/binary_cache_builder.py	/^    def _collect_used_binaries(self):$/;"	m	class:BinaryCacheBuilder
+_combine_source_files	simpleperf/annotate.py	/^    def _combine_source_files(self):$/;"	m	class:Addr2Line
+_convert_addrs_in_one_dso	simpleperf/utils.py	/^    def _convert_addrs_in_one_dso(self, dso_path, dso):$/;"	m	class:Addr2Nearestline
+_convert_addrs_to_lines	simpleperf/annotate.py	/^    def _convert_addrs_to_lines(self):$/;"	m	class:SourceFileAnnotator
+_convert_addrs_to_lines	simpleperf/annotate.py	/^    def _convert_addrs_to_lines(self, dso_name, dso):$/;"	m	class:Addr2Line
+_copy_binaries_from_symfs_dirs	simpleperf/binary_cache_builder.py	/^    def _copy_binaries_from_symfs_dirs(self):$/;"	m	class:BinaryCacheBuilder
+_copy_to_binary_cache	simpleperf/binary_cache_builder.py	/^    def _copy_to_binary_cache(self, from_path, expected_build_id, target_file):$/;"	m	class:BinaryCacheBuilder
+_descriptor	simpleperf/profile_pb2.py	/^from google.protobuf import descriptor as _descriptor$/;"	x
+_drawPieChart	simpleperf/report_html.js	/^    _drawPieChart() {$/;"	m	class:AnonymousFunction3144d0860100.ChartView
+_drawTitle	simpleperf/report_html.js	/^    _drawTitle() {$/;"	m	class:AnonymousFunction3144d0860100.ChartView
+_drawTitle	simpleperf/report_html.js	/^    _drawTitle() {$/;"	m	class:AnonymousFunction3144d0860100.FunctionTab
+_enableInfo	simpleperf/report_html.js	/^    _enableInfo() {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_enableZoom	simpleperf/report_html.js	/^    _enableZoom() {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_fields_	simpleperf/simpleperf_report_lib.py	/^    _fields_ = [('data', ct.POINTER(ct.c_char)),$/;"	v	class:FeatureSectionStructure
+_fields_	simpleperf/simpleperf_report_lib.py	/^    _fields_ = [('dso_name', ct.c_char_p),$/;"	v	class:SymbolStruct
+_fields_	simpleperf/simpleperf_report_lib.py	/^    _fields_ = [('ip', ct.c_uint64),$/;"	v	class:CallChainEntryStructure
+_fields_	simpleperf/simpleperf_report_lib.py	/^    _fields_ = [('ip', ct.c_uint64),$/;"	v	class:SampleStruct
+_fields_	simpleperf/simpleperf_report_lib.py	/^    _fields_ = [('name', ct.c_char_p)]$/;"	v	class:EventStruct
+_fields_	simpleperf/simpleperf_report_lib.py	/^    _fields_ = [('nr', ct.c_uint32),$/;"	v	class:CallChainStructure
+_fields_	simpleperf/simpleperf_report_lib.py	/^    _fields_ = [('start', ct.c_uint64),$/;"	v	class:MappingStruct
+_fields_	simpleperf/simpleperf_report_lib.py	/^    _fields_ = []$/;"	v	class:ReportLibStructure
+_file_has_symbol_table	simpleperf/binary_cache_builder.py	/^    def _file_has_symbol_table(self, file):$/;"	m	class:BinaryCacheBuilder
+_filter_report_sample	simpleperf/pprof_proto_generator.py	/^    def _filter_report_sample(self, sample):$/;"	m	class:PprofProfileGenerator
+_filter_sample	simpleperf/annotate.py	/^    def _filter_sample(self, sample):$/;"	m	class:SourceFileAnnotator
+_filter_symbol	simpleperf/annotate.py	/^    def _filter_symbol(self, symbol):$/;"	m	class:SourceFileAnnotator
+_filter_symbol	simpleperf/pprof_proto_generator.py	/^    def _filter_symbol(self, symbol):$/;"	m	class:PprofProfileGenerator
+_find_dso_path	simpleperf/annotate.py	/^    def _find_dso_path(self, dso):$/;"	m	class:Addr2Line
+_find_source_file	simpleperf/annotate.py	/^    def _find_source_file(self, file):$/;"	m	class:SourceFileAnnotator
+_gen_function_map	simpleperf/report_html.py	/^    def _gen_function_map(self):$/;"	m	class:RecordData
+_gen_lib_list	simpleperf/report_html.py	/^    def _gen_lib_list(self):$/;"	m	class:RecordData
+_gen_process_names	simpleperf/report_html.py	/^    def _gen_process_names(self):$/;"	m	class:RecordData
+_gen_sample_info	simpleperf/report_html.py	/^    def _gen_sample_info(self):$/;"	m	class:RecordData
+_gen_source_files	simpleperf/report_html.py	/^    def _gen_source_files(self):$/;"	m	class:RecordData
+_gen_thread_names	simpleperf/report_html.py	/^    def _gen_thread_names(self):$/;"	m	class:RecordData
+_generate_periods	simpleperf/annotate.py	/^    def _generate_periods(self):$/;"	m	class:SourceFileAnnotator
+_getHeatColor	simpleperf/report_html.js	/^    _getHeatColor(widthPercentage) {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_getState	simpleperf/report_html.js	/^    _getState() {$/;"	m	class:AnonymousFunction3144d0860100.ChartView
+_getWidthPercentage	simpleperf/report_html.js	/^    _getWidthPercentage(eventCount) {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_getYForDepth	simpleperf/report_html.js	/^    _getYForDepth(depth) {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_get_addr_step	simpleperf/utils.py	/^    def _get_addr_step(self, real_path):$/;"	m	class:Addr2Nearestline
+_get_binutils_path_in_ndk	simpleperf/utils.py	/^def _get_binutils_path_in_ndk(toolname, arch, platform):$/;"	f
+_get_child	simpleperf/inferno/data_types.py	/^    def _get_child(self, callsite):$/;"	m	class:FlameGraphCallSite
+_get_event	simpleperf/report_html.py	/^    def _get_event(self, event_name):$/;"	m	class:RecordData
+_get_file_id	simpleperf/annotate.py	/^    def _get_file_id(self, file):$/;"	m	class:Addr2Line
+_get_file_id	simpleperf/utils.py	/^    def _get_file_id(self, file_path):$/;"	m	class:Addr2Nearestline
+_get_native_lib	simpleperf/simpleperf_report_lib.py	/^def _get_native_lib():$/;"	f
+_get_need_archs	simpleperf/app_profiler.py	/^    def _get_need_archs(self):$/;"	m	class:NativeLibDownloader
+_get_next_callsite_id	simpleperf/inferno/data_types.py	/^    def _get_next_callsite_id(cls):$/;"	m	class:FlameGraphCallSite
+_get_percentage	simpleperf/annotate.py	/^    def _get_percentage(self, period):$/;"	m	class:SourceFileAnnotator
+_get_percentage_str	simpleperf/annotate.py	/^    def _get_percentage_str(self, period, short=False):$/;"	m	class:SourceFileAnnotator
+_goBack	simpleperf/report_html.js	/^    _goBack() {$/;"	m	class:AnonymousFunction3144d0860100.ChartView
+_is_null	simpleperf/simpleperf_report_lib.py	/^def _is_null(p):$/;"	f
+_load_dependent_lib	simpleperf/simpleperf_report_lib.py	/^    def _load_dependent_lib(self):$/;"	m	class:ReportLib
+_message	simpleperf/profile_pb2.py	/^from google.protobuf import message as _message$/;"	x
+_pull_binaries_from_device	simpleperf/binary_cache_builder.py	/^    def _pull_binaries_from_device(self):$/;"	m	class:BinaryCacheBuilder
+_pull_file_from_device	simpleperf/binary_cache_builder.py	/^    def _pull_file_from_device(self, device_path, host_path):$/;"	m	class:BinaryCacheBuilder
+_pull_kernel_symbols	simpleperf/binary_cache_builder.py	/^    def _pull_kernel_symbols(self):$/;"	m	class:BinaryCacheBuilder
+_read_build_id	simpleperf/binary_cache_builder.py	/^    def _read_build_id(self, file):$/;"	m	class:BinaryCacheBuilder
+_reflection	simpleperf/profile_pb2.py	/^from google.protobuf import reflection as _reflection$/;"	x
+_renderBackground	simpleperf/report_html.js	/^    _renderBackground() {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_renderInfoNode	simpleperf/report_html.js	/^    _renderInfoNode() {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_renderPercentNode	simpleperf/report_html.js	/^    _renderPercentNode() {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_renderSvgNodes	simpleperf/report_html.js	/^    _renderSvgNodes(callNode, depth, xOffset) {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_renderUnzoomNode	simpleperf/report_html.js	/^    _renderUnzoomNode() {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+_selectHandler	simpleperf/report_html.js	/^    _selectHandler(chart) {$/;"	m	class:AnonymousFunction3144d0860100.ChartView
+_sym_db	simpleperf/profile_pb2.py	/^_sym_db = _symbol_database.Default()$/;"	v
+_symbol_database	simpleperf/profile_pb2.py	/^from google.protobuf import symbol_database as _symbol_database$/;"	x
+_unroot	simpleperf/utils.py	/^    def _unroot(self):$/;"	m	class:AdbHelper
+_write_summary	simpleperf/annotate.py	/^    def _write_summary(self):$/;"	m	class:SourceFileAnnotator
+add	simpleperf/debug_unwind_reporter.py	/^    def add(self, pid, map_entry):$/;"	m	class:ProcessMaps
+add	simpleperf/report_html.py	/^    def add(self, text):$/;"	m	class:HtmlWriter
+addEventCount	simpleperf/report_html.js	/^    function addEventCount(addr) {$/;"	f	function:AnonymousFunction3144d0860100.collectDisassemblyForFunction
+addLineCount	simpleperf/report_html.js	/^    addLineCount(lineNumber, eventCount, subtreeEventCount) {$/;"	m	class:AnonymousFunction3144d0860100.SourceFile
+addLineRange	simpleperf/report_html.js	/^    addLineRange(startLine, endLine) {$/;"	m	class:AnonymousFunction3144d0860100.SourceFile
+addTab	simpleperf/report_html.js	/^    addTab(title, tabObj) {$/;"	m	class:AnonymousFunction3144d0860100.TabManager
+add_addr	simpleperf/annotate.py	/^    def add_addr(self, dso_name, addr):$/;"	m	class:Addr2Line
+add_addr	simpleperf/utils.py	/^    def add_addr(self, dso_path, func_addr, addr):$/;"	m	class:Addr2Nearestline
+add_call	simpleperf/report.py	/^  def add_call(self, function_name):$/;"	m	class:CallTreeNode
+add_callchain	simpleperf/inferno/data_types.py	/^    def add_callchain(self, callchain, symbol, sample):$/;"	m	class:Thread
+add_callchain	simpleperf/inferno/data_types.py	/^    def add_callchain(self, chain, num_events):$/;"	m	class:FlameGraphCallSite
+add_callchain	simpleperf/report_html.py	/^    def add_callchain(self, callchain, start, end, event_count):$/;"	m	class:FunctionScope
+add_callstack	simpleperf/report_html.py	/^    def add_callstack(self, event_count, callstack, build_addr_hit_map):$/;"	m	class:ThreadScope
+add_child	simpleperf/report.py	/^  def add_child(self, node):$/;"	m	class:CallTreeNode
+add_disassembly	simpleperf/report_html.py	/^    def add_disassembly(self):$/;"	m	class:RecordData
+add_file	simpleperf/report_html.py	/^    def add_file(self, file_path):$/;"	m	class:HtmlWriter
+add_function_period	simpleperf/annotate.py	/^    def add_function_period(self, function_name, function_start_line, period):$/;"	m	class:FilePeriod
+add_line	simpleperf/pprof_proto_generator.py	/^    def add_line(self, source, dso_name, function_id):$/;"	m	class:PprofProfileGenerator
+add_line_period	simpleperf/annotate.py	/^    def add_line_period(self, line, period):$/;"	m	class:FilePeriod
+add_location_id	simpleperf/pprof_proto_generator.py	/^    def add_location_id(self, location_id):$/;"	m	class:Sample
+add_mem_stat	simpleperf/debug_unwind_reporter.py	/^    def add_mem_stat(self, name, mem_str):$/;"	m	class:UnwindingResultErrorReport
+add_native_lib_on_host	simpleperf/app_profiler.py	/^    def add_native_lib_on_host(self, path, name):$/;"	m	class:NativeLibDownloader
+add_period	simpleperf/annotate.py	/^    def add_period(self, period):$/;"	m	class:DsoPeriod
+add_period	simpleperf/annotate.py	/^    def add_period(self, period):$/;"	m	class:FilePeriod
+add_reverse_callchain	simpleperf/report_html.py	/^    def add_reverse_callchain(self, callchain, start, end, event_count):$/;"	m	class:FunctionScope
+add_sample	simpleperf/inferno/data_types.py	/^    def add_sample(self, sample, symbol, callchain):$/;"	m	class:Process
+add_sample	simpleperf/pprof_proto_generator.py	/^    def add_sample(self, sample):$/;"	m	class:PprofProfileGenerator
+add_sample_result	simpleperf/debug_unwind_reporter.py	/^    def add_sample_result(self, sample_result):$/;"	m	class:FileResult
+add_sample_result	simpleperf/debug_unwind_reporter.py	/^    def add_sample_result(self, sample_result):$/;"	m	class:FunctionResult
+add_sample_result	simpleperf/debug_unwind_reporter.py	/^    def add_sample_result(self, sample_result, joined_record):$/;"	m	class:UnwindingResultErrorReport
+add_source_code	simpleperf/report_html.py	/^    def add_source_code(self, real_path):$/;"	m	class:SourceFile
+add_source_code	simpleperf/report_html.py	/^    def add_source_code(self, source_dirs):$/;"	m	class:RecordData
+add_time	simpleperf/debug_unwind_reporter.py	/^    def add_time(self, used_time):$/;"	m	class:UnwindingTimes
+add_value	simpleperf/pprof_proto_generator.py	/^    def add_value(self, id, value):$/;"	m	class:Sample
+add_values	simpleperf/pprof_proto_generator.py	/^    def add_values(self, values):$/;"	m	class:Sample
+adjust_node_text_size	simpleperf/inferno/script.js	/^function adjust_node_text_size(x, svgWidth) {$/;"	f
+adjust_text_size	simpleperf/inferno/script.js	/^function adjust_text_size(svgElement) {$/;"	f
+annotate	simpleperf/annotate.py	/^    def annotate(self):$/;"	m	class:SourceFileAnnotator
+app_profiler.py	simpleperf/doc/README.md	/^### app_profiler.py$/;"	S
+args	find_common_cpu_load_kkh.py	/^  args = parser.parse_args()$/;"	v
+args	measure_perf_kkh.py	/^  args = parser.parse_args()$/;"	v
+args	measure_perf_n_battery.py	/^  args = parser.parse_args()$/;"	v
+args	measure_script.py	/^  args = parser.parse_args()$/;"	v
+args	measure_w_perf.py	/^  args = parser.parse_args()$/;"	v
+args	parse_perf_output.py	/^  args = parser.parse_args()$/;"	v
+args	simpleperf/report_sample.py	/^    args = parser.parse_args()$/;"	v
+battery_log_path	measure_perf_n_battery.py	/^    battery_log_path = f"{log_path}\/batterystats.txt"$/;"	v
+binary_cache_builder.py	simpleperf/doc/README.md	/^### binary_cache_builder.py$/;"	S
+build_addr_hit_map	simpleperf/report_html.py	/^    def build_addr_hit_map(self, addr, event_count, subtree_event_count):$/;"	m	class:FunctionScope
+build_binary_cache	simpleperf/binary_cache_builder.py	/^    def build_binary_cache(self):$/;"	m	class:BinaryCacheBuilder
+build_line_hit_map	simpleperf/report_html.py	/^    def build_line_hit_map(self, source_file_id, line, event_count, subtree_event_count):$/;"	m	class:FunctionScope
+build_unwinding_result_report	simpleperf/debug_unwind_reporter.py	/^def build_unwinding_result_report(args):$/;"	f
+bytes_to_str	simpleperf/utils.py	/^def bytes_to_str(bytes):$/;"	f
+calculate_inst_number	parse_perf_output.py	/^def calculate_inst_number(cpu_running_time_per_freq, target_device_model):$/;"	f
+call_simpleperf_report	simpleperf/report.py	/^def call_simpleperf_report(args, show_gui, self_kill_after_sec):$/;"	f
+callsite_counter	simpleperf/inferno/data_types.py	/^    callsite_counter = 0$/;"	v	class:FlameGraphCallSite
+check_args	simpleperf/app_profiler.py	/^    def check_args(args):$/;"	f	function:main	file:
+check_run	simpleperf/utils.py	/^    def check_run(self, adb_args):$/;"	m	class:AdbHelper
+check_run_and_return_output	simpleperf/utils.py	/^    def check_run_and_return_output(self, adb_args, stdout_file=None, log_output=True):$/;"	m	class:AdbHelper
+close	simpleperf/report_html.py	/^    def close(self):$/;"	m	class:HtmlWriter
+closeHtml	simpleperf/report_html.js	/^function closeHtml(name) {$/;"	f	function:AnonymousFunction3144d0860100
+close_tag	simpleperf/report_html.py	/^    def close_tag(self, tag=None):$/;"	m	class:HtmlWriter
+cnt	find_common_cpu_load_kkh.py	/^      cnt = total_cnt_per_comm_cnt[comm][i]$/;"	v
+cnt	find_common_cpu_load_kkh.py	/^    cnt = total_cnt_per_comm[i]$/;"	v
+code	simpleperf/report_html.js	/^        let item = {code: code, eventCount: 0, subtreeEventCount: 0};$/;"	p	class:AnonymousFunction3144d0860100.collectDisassemblyForFunction.item
+collectDisassemblyForFunction	simpleperf/report_html.js	/^function collectDisassemblyForFunction(func) {$/;"	f	function:AnonymousFunction3144d0860100
+collectSourceFilesForFunction	simpleperf/report_html.js	/^function collectSourceFilesForFunction(func) {$/;"	f	function:AnonymousFunction3144d0860100
+collect_data	simpleperf/inferno/inferno.py	/^def collect_data(args):$/;"	f
+collect_machine_info	simpleperf/inferno/inferno.py	/^def collect_machine_info(process):$/;"	f
+collect_native_libs_on_device	simpleperf/app_profiler.py	/^    def collect_native_libs_on_device(self):$/;"	m	class:NativeLibDownloader
+collect_native_libs_on_host	simpleperf/app_profiler.py	/^    def collect_native_libs_on_host(self, native_lib_dir):$/;"	m	class:NativeLibDownloader
+collect_profiling_data	simpleperf/app_profiler.py	/^    def collect_profiling_data(self):$/;"	m	class:ProfilerBase
+comm	parse_perf_output.py	/^          comm = values[1]$/;"	v
+compile_java_code	simpleperf/app_profiler.py	/^    def compile_java_code(self):$/;"	m	class:AppProfiler
+constructor	simpleperf/report_html.js	/^    constructor() {$/;"	m	class:AnonymousFunction3144d0860100.ChartStatTab
+constructor	simpleperf/report_html.js	/^    constructor() {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphTab
+constructor	simpleperf/report_html.js	/^    constructor() {$/;"	m	class:AnonymousFunction3144d0860100.FunctionTab
+constructor	simpleperf/report_html.js	/^    constructor() {$/;"	m	class:AnonymousFunction3144d0860100.SampleTableTab
+constructor	simpleperf/report_html.js	/^    constructor(divContainer) {$/;"	m	class:AnonymousFunction3144d0860100.RecordFileView
+constructor	simpleperf/report_html.js	/^    constructor(divContainer) {$/;"	m	class:AnonymousFunction3144d0860100.TabManager
+constructor	simpleperf/report_html.js	/^    constructor(divContainer, callgraph, reverseOrder) {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+constructor	simpleperf/report_html.js	/^    constructor(divContainer, disassembly) {$/;"	m	class:AnonymousFunction3144d0860100.DisassemblyView
+constructor	simpleperf/report_html.js	/^    constructor(divContainer, eventInfo) {$/;"	m	class:AnonymousFunction3144d0860100.ChartView
+constructor	simpleperf/report_html.js	/^    constructor(divContainer, eventInfo) {$/;"	m	class:AnonymousFunction3144d0860100.SampleTableView
+constructor	simpleperf/report_html.js	/^    constructor(divContainer, eventInfo, processInfo, threadInfo, onSelectChange) {$/;"	m	class:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView
+constructor	simpleperf/report_html.js	/^    constructor(divContainer, firstEventInfo, onSelectChange) {$/;"	m	class:AnonymousFunction3144d0860100.SampleTableWeightSelectorView
+constructor	simpleperf/report_html.js	/^    constructor(divContainer, sourceFiles) {$/;"	m	class:AnonymousFunction3144d0860100.SourceCodeView
+constructor	simpleperf/report_html.js	/^    constructor(fileId) {$/;"	m	class:AnonymousFunction3144d0860100.SourceFile
+convert_addrs_to_lines	simpleperf/annotate.py	/^    def convert_addrs_to_lines(self):$/;"	m	class:Addr2Line
+convert_addrs_to_lines	simpleperf/utils.py	/^    def convert_addrs_to_lines(self):$/;"	m	class:Addr2Nearestline
+count for each row.	simpleperf/doc/README.md	/^# count for each row.$/;"	c
+createSVGNode	simpleperf/inferno/svg_renderer.py	/^def createSVGNode(process, callsite, depth, f, total_weight, height, color_scheme, nav):$/;"	f
+createTabs	simpleperf/report_html.js	/^function createTabs() {$/;"	f	function:AnonymousFunction3144d0860100
+createZoomHistoryStack	simpleperf/inferno/script.js	/^function createZoomHistoryStack(svgElement) {$/;"	f
+ct	simpleperf/simpleperf_report_lib.py	/^import ctypes as ct$/;"	I
+cut_edge	simpleperf/report_html.py	/^    def cut_edge(self, min_limit, hit_func_ids):$/;"	m	class:CallNode
+desc	measure_perf_kkh.py	/^  desc = args.desc$/;"	v
+desc	measure_perf_n_battery.py	/^  desc = args.desc$/;"	v
+desc	measure_script.py	/^  desc = args.desc$/;"	v
+desc	measure_w_perf.py	/^  desc = args.desc$/;"	v
+device_id	find_common_cpu_load_kkh.py	/^      device_model, target_app, device_id, iter_num = parse_log_path(path)$/;"	v
+device_id	measure_perf_kkh.py	/^  device_id = args.device_id$/;"	v
+device_id	measure_perf_n_battery.py	/^  device_id = args.device_id$/;"	v
+device_id	measure_script.py	/^  device_id = args.device_id$/;"	v
+device_id	measure_w_perf.py	/^  device_id = args.device_id$/;"	v
+device_model	find_common_cpu_load_kkh.py	/^      device_model, target_app, device_id, iter_num = parse_log_path(path)$/;"	v
+device_model	measure_perf_kkh.py	/^  device_model = args.device_model$/;"	v
+device_model	measure_perf_n_battery.py	/^  device_model = args.device_model$/;"	v
+device_model	measure_w_perf.py	/^  device_model = args.device_model$/;"	v
+device_model	parse_perf_output.py	/^          device_model = target_device_model$/;"	v
+df	parse_batterystats.py	/^df = pd.DataFrame(total_power_infos)$/;"	v
+disable_debug_log	simpleperf/utils.py	/^def disable_debug_log():$/;"	f
+disable_screen_off	measure_perf_kkh.py	/^def disable_screen_off(target_device_id):$/;"	f
+disable_screen_off	measure_perf_n_battery.py	/^def disable_screen_off(target_device_id):$/;"	f
+disable_screen_off	measure_w_perf.py	/^def disable_screen_off(target_device_id):$/;"	f
+disassemble_code	simpleperf/utils.py	/^    def disassemble_code(self, dso_path, start_addr, addr_len):$/;"	m	class:Objdump
+displayFromElement	simpleperf/report_html.js	/^        function displayFromElement(g) {$/;"	f	function:AnonymousFunction3144d0860100.FlameGraphView._enableZoom
+displaySVGElement	simpleperf/inferno/script.js	/^function displaySVGElement(svgElement) {$/;"	f
+display_call_tree	simpleperf/report.py	/^  def display_call_tree(self, tree, parent_id, node, indent):$/;"	m	class:ReportWindow
+display_report_file	simpleperf/report.py	/^def display_report_file(report_file, self_kill_after_sec):$/;"	f
+display_report_items	simpleperf/report.py	/^  def display_report_items(self, tree, report_items):$/;"	m	class:ReportWindow
+download_libs	simpleperf/app_profiler.py	/^    def download_libs(self):$/;"	m	class:ProfilerBase
+download_simpleperf	simpleperf/app_profiler.py	/^    def download_simpleperf(self):$/;"	m	class:ProfilerBase
+draw	simpleperf/report_html.js	/^    draw() {$/;"	m	class:AnonymousFunction3144d0860100.ChartStatTab
+draw	simpleperf/report_html.js	/^    draw() {$/;"	m	class:AnonymousFunction3144d0860100.ChartView
+draw	simpleperf/report_html.js	/^    draw() {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphTab
+draw	simpleperf/report_html.js	/^    draw() {$/;"	m	class:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView
+draw	simpleperf/report_html.js	/^    draw() {$/;"	m	class:AnonymousFunction3144d0860100.FunctionTab
+draw	simpleperf/report_html.js	/^    draw() {$/;"	m	class:AnonymousFunction3144d0860100.RecordFileView
+draw	simpleperf/report_html.js	/^    draw() {$/;"	m	class:AnonymousFunction3144d0860100.SampleTableTab
+draw	simpleperf/report_html.js	/^    draw() {$/;"	m	class:AnonymousFunction3144d0860100.SampleTableWeightSelectorView
+draw	simpleperf/report_html.js	/^    draw() {$/;"	m	class:AnonymousFunction3144d0860100.TabManager
+draw	simpleperf/report_html.js	/^    draw(getSampleWeight, sampleWeightSuffix) {$/;"	m	class:AnonymousFunction3144d0860100.SampleTableView
+draw	simpleperf/report_html.js	/^    draw(sampleWeightFunction) {$/;"	m	class:AnonymousFunction3144d0860100.DisassemblyView
+draw	simpleperf/report_html.js	/^    draw(sampleWeightFunction) {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphView
+draw	simpleperf/report_html.js	/^    draw(sampleWeightFunction) {$/;"	m	class:AnonymousFunction3144d0860100.SourceCodeView
+dump	simpleperf/report.py	/^  def dump(self):$/;"	m	class:CallTreeNode
+duration	measure_perf_kkh.py	/^  duration = args.duration$/;"	v
+duration	measure_perf_n_battery.py	/^  duration = args.duration$/;"	v
+duration	measure_script.py	/^  duration = args.duration$/;"	v
+duration	measure_w_perf.py	/^  duration = args.duration$/;"	v
+eventCount	simpleperf/report_html.js	/^            this.showLines[i] = {eventCount: 0, subtreeEventCount: 0};$/;"	p	class:AnonymousFunction3144d0860100.SourceFile.addLineRange.showLines
+eventCount	simpleperf/report_html.js	/^        let item = {code: code, eventCount: 0, subtreeEventCount: 0};$/;"	p	class:AnonymousFunction3144d0860100.collectDisassemblyForFunction.item
+exec_cmd	measure_perf_kkh.py	/^def exec_cmd(cmd):$/;"	f
+exec_cmd	measure_perf_n_battery.py	/^def exec_cmd(cmd):$/;"	f
+exec_cmd	measure_script.py	/^def exec_cmd(cmd):$/;"	f
+exec_cmd	measure_w_perf.py	/^def exec_cmd(cmd):$/;"	f
+exec_cmd	test.py	/^def exec_cmd(cmd):$/;"	f
+exec_via_adb	measure_perf_kkh.py	/^def exec_via_adb(cmd, target_device_id):$/;"	f
+exec_via_adb	measure_perf_n_battery.py	/^def exec_via_adb(cmd, target_device_id):$/;"	f
+exec_via_adb	measure_script.py	/^def exec_via_adb(cmd, target_device_id):$/;"	f
+exec_via_adb	measure_w_perf.py	/^def exec_via_adb(cmd, target_device_id):$/;"	f
+extant_dir	simpleperf/utils.py	/^def extant_dir(arg):$/;"	f
+f	find_common_cpu_load_kkh.py	/^      f = open(f"{path}\/perf_output")$/;"	v
+f	parse_perf_output.py	/^      f = open(f"{path}\/perf_output")$/;"	v
+file_key	simpleperf/annotate.py	/^    def file_key(self):$/;"	m	class:SourceLine
+filter_fn	simpleperf/inferno/inferno.py	/^        def filter_fn(sample, symbol, callchain):$/;"	f	function:main	file:
+find	simpleperf/debug_unwind_reporter.py	/^    def find(self, pid, addr):$/;"	m	class:ProcessMaps
+findTab	simpleperf/report_html.js	/^    findTab(title) {$/;"	m	class:AnonymousFunction3144d0860100.TabManager
+find_app_process	simpleperf/app_profiler.py	/^    def find_app_process(self):$/;"	m	class:AppProfiler
+find_common_cpu_load	find_common_cpu_load_kkh.py	/^def find_common_cpu_load(parsed_data):$/;"	f
+find_real_dso_path	simpleperf/utils.py	/^def find_real_dso_path(dso_path_in_record_file, binary_cache_path):$/;"	f
+find_tool_path	simpleperf/utils.py	/^def find_tool_path(toolname, ndk_path=None, arch=None):$/;"	f
+finish	simpleperf/report_html.py	/^    def finish(self):$/;"	m	class:ReportGenerator
+flamegraphInit	simpleperf/inferno/script.js	/^function flamegraphInit() {$/;"	f
+flatten_arg_list	simpleperf/utils.py	/^def flatten_arg_list(arg_list):$/;"	f
+fork_pid	simpleperf/debug_unwind_reporter.py	/^    def fork_pid(self, pid, ppid):$/;"	m	class:ProcessMaps
+frequency (4000 samples per second), writing records to perf.data.	simpleperf/doc/README.md	/^# frequency (4000 samples per second), writing records to perf.data.$/;"	c
+function_key	simpleperf/annotate.py	/^    def function_key(self):$/;"	m	class:SourceLine
+gen	simpleperf/pprof_proto_generator.py	/^    def gen(self):$/;"	m	class:PprofProfileGenerator
+gen_flamegraph	simpleperf/report_html.py	/^def gen_flamegraph(record_file, show_art_frames):$/;"	f
+gen_profile_function	simpleperf/pprof_proto_generator.py	/^    def gen_profile_function(self, function):$/;"	m	class:PprofProfileGenerator
+gen_profile_location	simpleperf/pprof_proto_generator.py	/^    def gen_profile_location(self, location):$/;"	m	class:PprofProfileGenerator
+gen_profile_mapping	simpleperf/pprof_proto_generator.py	/^    def gen_profile_mapping(self, mapping):$/;"	m	class:PprofProfileGenerator
+gen_profile_sample	simpleperf/pprof_proto_generator.py	/^    def gen_profile_sample(self, sample):$/;"	m	class:PprofProfileGenerator
+gen_record_info	simpleperf/report_html.py	/^    def gen_record_info(self):$/;"	m	class:RecordData
+gen_sample_info	simpleperf/report_html.py	/^    def gen_sample_info(self):$/;"	m	class:CallNode
+gen_sample_info	simpleperf/report_html.py	/^    def gen_sample_info(self, gen_addr_hit_map):$/;"	m	class:FunctionScope
+gen_sample_info	simpleperf/report_html.py	/^    def gen_sample_info(self, gen_addr_hit_map):$/;"	m	class:LibScope
+gen_source_lines	simpleperf/pprof_proto_generator.py	/^    def gen_source_lines(self):$/;"	m	class:PprofProfileGenerator
+generate_offset	simpleperf/inferno/data_types.py	/^    def generate_offset(self, start_offset):$/;"	m	class:FlameGraphCallSite
+generate_threads_offsets	simpleperf/inferno/inferno.py	/^def generate_threads_offsets(process):$/;"	f
+getDSOColor	simpleperf/inferno/svg_renderer.py	/^def getDSOColor(method):$/;"	f
+getFile	simpleperf/report_html.js	/^    function getFile(fileId) {$/;"	f	function:AnonymousFunction3144d0860100.collectSourceFilesForFunction
+getFuncDisassembly	simpleperf/report_html.js	/^function getFuncDisassembly(funcId) {$/;"	f	function:AnonymousFunction3144d0860100
+getFuncName	simpleperf/report_html.js	/^function getFuncName(funcId) {$/;"	f	function:AnonymousFunction3144d0860100
+getFuncSourceRange	simpleperf/report_html.js	/^function getFuncSourceRange(funcId) {$/;"	f	function:AnonymousFunction3144d0860100
+getHeatColor	simpleperf/inferno/svg_renderer.py	/^def getHeatColor(callsite, total_weight):$/;"	f
+getHtml	simpleperf/report_html.js	/^function getHtml(name, attrs={}) {$/;"	f	function:AnonymousFunction3144d0860100
+getInstance	simpleperf/simpleperf_report_lib.py	/^    def getInstance(self):$/;"	m	class:ReportLib
+getItem	simpleperf/report_html.js	/^        function getItem(name, eventCount, totalEventCount) {$/;"	f	function:AnonymousFunction3144d0860100.ChartView._drawPieChart
+getLegacyColor	simpleperf/inferno/svg_renderer.py	/^def getLegacyColor(method):$/;"	f
+getLibName	simpleperf/report_html.js	/^function getLibName(libId) {$/;"	f	function:AnonymousFunction3144d0860100
+getLibNameOfFunction	simpleperf/report_html.js	/^function getLibNameOfFunction(funcId) {$/;"	f	function:AnonymousFunction3144d0860100
+getMaxDepth	simpleperf/report_html.js	/^        function getMaxDepth(node) {$/;"	f	function:AnonymousFunction3144d0860100.FlameGraphView.constructor
+getProcessName	simpleperf/report_html.js	/^function getProcessName(pid) {$/;"	f	function:AnonymousFunction3144d0860100
+getSampleWeight	simpleperf/report_html.js	/^            this.getSampleWeight = function (eventCount) {$/;"	m	class:AnonymousFunction3144d0860100.ChartView.constructor
+getSampleWeightFunction	simpleperf/report_html.js	/^    getSampleWeightFunction() {$/;"	m	class:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView
+getSampleWeightFunction	simpleperf/report_html.js	/^    getSampleWeightFunction(eventInfo) {$/;"	m	class:AnonymousFunction3144d0860100.SampleTableWeightSelectorView
+getSampleWeightSuffix	simpleperf/report_html.js	/^    getSampleWeightSuffix(eventInfo) {$/;"	m	class:AnonymousFunction3144d0860100.SampleTableWeightSelectorView
+getSourceCode	simpleperf/report_html.js	/^function getSourceCode(sourceFileId) {$/;"	f	function:AnonymousFunction3144d0860100
+getSourceFilePath	simpleperf/report_html.js	/^function getSourceFilePath(sourceFileId) {$/;"	f	function:AnonymousFunction3144d0860100
+getTableRow	simpleperf/report_html.js	/^function getTableRow(cols, colName, attrs={}) {$/;"	f	function:AnonymousFunction3144d0860100
+getThreadName	simpleperf/report_html.js	/^function getThreadName(tid) {$/;"	f	function:AnonymousFunction3144d0860100
+get_addr_source	simpleperf/utils.py	/^    def get_addr_source(self, dso, addr):$/;"	m	class:Addr2Nearestline
+get_android_version	simpleperf/utils.py	/^    def get_android_version(self):$/;"	m	class:AdbHelper
+get_arch	simpleperf/utils.py	/^    def get_arch(self, elf_file_path):$/;"	m	class:ReadElf
+get_build_id	simpleperf/utils.py	/^    def get_build_id(self, elf_file_path):$/;"	m	class:ReadElf
+get_child	simpleperf/report_html.py	/^    def get_child(self, func_id):$/;"	m	class:CallNode
+get_device_arch	simpleperf/utils.py	/^    def get_device_arch(self):$/;"	m	class:AdbHelper
+get_dso	simpleperf/utils.py	/^    def get_dso(self, dso_path):$/;"	m	class:Addr2Nearestline
+get_func_id	simpleperf/report_html.py	/^    def get_func_id(self, lib_id, symbol):$/;"	m	class:FunctionSet
+get_function	simpleperf/pprof_proto_generator.py	/^    def get_function(self, function_id):$/;"	m	class:PprofProfileGenerator
+get_function	simpleperf/report_html.py	/^    def get_function(self, func_id):$/;"	m	class:LibScope
+get_function_id	simpleperf/pprof_proto_generator.py	/^    def get_function_id(self, name, dso_name, vaddr_in_file):$/;"	m	class:PprofProfileGenerator
+get_host_binary_path	simpleperf/utils.py	/^def get_host_binary_path(binary_name):$/;"	f
+get_lib_id	simpleperf/report_html.py	/^    def get_lib_id(self, lib_name):$/;"	m	class:LibSet
+get_lib_name	simpleperf/report_html.py	/^    def get_lib_name(self, lib_id):$/;"	m	class:LibSet
+get_local_asset_content	simpleperf/inferno/inferno.py	/^def get_local_asset_content(local_path):$/;"	f
+get_location_id	simpleperf/pprof_proto_generator.py	/^    def get_location_id(self, ip, symbol):$/;"	m	class:PprofProfileGenerator
+get_mapping	simpleperf/pprof_proto_generator.py	/^    def get_mapping(self, mapping_id):$/;"	m	class:PprofProfileGenerator
+get_mapping_id	simpleperf/pprof_proto_generator.py	/^    def get_mapping_id(self, report_mapping, filename):$/;"	m	class:PprofProfileGenerator
+get_max_depth	simpleperf/inferno/data_types.py	/^    def get_max_depth(self):$/;"	m	class:FlameGraphCallSite
+get_platform	simpleperf/utils.py	/^def get_platform():$/;"	f
+get_power_info	parse_batterystats.py	/^def get_power_info(path, target_package_app_name):$/;"	f
+get_process	simpleperf/report_html.py	/^    def get_process(self, pid):$/;"	m	class:EventScope
+get_proper_scaled_time_string	simpleperf/inferno/svg_renderer.py	/^def get_proper_scaled_time_string(value):$/;"	f
+get_property	simpleperf/utils.py	/^    def get_property(self, name):$/;"	m	class:AdbHelper
+get_real_path	simpleperf/report_html.py	/^    def get_real_path(self, abstract_path):$/;"	m	class:SourceFileSearcher
+get_sample_info	simpleperf/report_html.py	/^    def get_sample_info(self, gen_addr_hit_map):$/;"	m	class:EventScope
+get_sample_info	simpleperf/report_html.py	/^    def get_sample_info(self, gen_addr_hit_map):$/;"	m	class:ProcessScope
+get_sample_info	simpleperf/report_html.py	/^    def get_sample_info(self, gen_addr_hit_map):$/;"	m	class:ThreadScope
+get_sample_type_id	simpleperf/pprof_proto_generator.py	/^    def get_sample_type_id(self, name):$/;"	m	class:PprofProfileGenerator
+get_script_dir	simpleperf/utils.py	/^def get_script_dir():$/;"	f
+get_sections	simpleperf/utils.py	/^    def get_sections(self, elf_file_path):$/;"	m	class:ReadElf
+get_simpleperf_report_help_msg	simpleperf/report.py	/^def get_simpleperf_report_help_msg():$/;"	f
+get_source_file	simpleperf/report_html.py	/^    def get_source_file(self, file_path):$/;"	m	class:SourceFileSet
+get_sources	simpleperf/annotate.py	/^    def get_sources(self, dso_name, addr):$/;"	m	class:Addr2Line
+get_string	simpleperf/pprof_proto_generator.py	/^    def get_string(self, string_id):$/;"	m	class:PprofProfileGenerator
+get_string_id	simpleperf/pprof_proto_generator.py	/^    def get_string_id(self, str):$/;"	m	class:PprofProfileGenerator
+get_target_binary_path	simpleperf/utils.py	/^def get_target_binary_path(arch, binary_name):$/;"	f
+get_thread	simpleperf/inferno/data_types.py	/^    def get_thread(self, tid, pid):$/;"	m	class:Process
+get_thread	simpleperf/report_html.py	/^    def get_thread(self, tid, thread_name):$/;"	m	class:ProcessScope
+grouped_pv	find_common_cpu_load_kkh.py	/^  grouped_pv = pv.groupby(["target_app","device_model","device_id","comm"])['overhead','total_in/;"	v
+grouped_pv	find_common_cpu_load_kkh.py	/^  grouped_pv = pv.groupby(["target_app","device_model","device_id"]).agg(['mean','std']).sort_va/;"	v
+hash_to_float	simpleperf/inferno/svg_renderer.py	/^def hash_to_float(string):$/;"	f
+inferno	simpleperf/doc/README.md	/^### inferno$/;"	S
+init	simpleperf/report_html.js	/^    init(div) {$/;"	m	class:AnonymousFunction3144d0860100.ChartStatTab
+init	simpleperf/report_html.js	/^    init(div) {$/;"	m	class:AnonymousFunction3144d0860100.FlameGraphTab
+init	simpleperf/report_html.js	/^    init(div) {$/;"	m	class:AnonymousFunction3144d0860100.FunctionTab
+init	simpleperf/report_html.js	/^    init(div) {$/;"	m	class:AnonymousFunction3144d0860100.SampleTableTab
+initGlobalObjects	simpleperf/report_html.js	/^function initGlobalObjects() {$/;"	f	function:AnonymousFunction3144d0860100
+inst	parse_perf_output.py	/^      inst = 0$/;"	v
+isClockEvent	simpleperf/report_html.js	/^function isClockEvent(eventInfo) {$/;"	f	function:AnonymousFunction3144d0860100
+is_callchain_complete	simpleperf/debug_unwind_reporter.py	/^        def is_callchain_complete(callchain):$/;"	f	member:UnwindingResultErrorReport.should_omit	file:
+is_darwin	simpleperf/utils.py	/^def is_darwin():$/;"	f
+is_executable_available	simpleperf/utils.py	/^def is_executable_available(executable, option='--help'):$/;"	f
+is_python3	simpleperf/utils.py	/^def is_python3():$/;"	f
+is_source_filename	simpleperf/report_html.py	/^    def is_source_filename(cls, filename):$/;"	m	class:SourceFileSearcher
+is_windows	simpleperf/utils.py	/^def is_windows():$/;"	f
+item	simpleperf/report_html.js	/^        let item = {code: code, eventCount: 0, subtreeEventCount: 0};$/;"	c	class:AnonymousFunction3144d0860100.collectDisassemblyForFunction
+iter_num	find_common_cpu_load_kkh.py	/^      device_model, target_app, device_id, iter_num = parse_log_path(path)$/;"	v
+key	simpleperf/pprof_proto_generator.py	/^    def key(self):$/;"	m	class:Function
+key	simpleperf/pprof_proto_generator.py	/^    def key(self):$/;"	m	class:Location
+key	simpleperf/pprof_proto_generator.py	/^    def key(self):$/;"	m	class:Mapping
+key	simpleperf/pprof_proto_generator.py	/^    def key(self):$/;"	m	class:Sample
+kill_app_process	simpleperf/app_profiler.py	/^    def kill_app_process(self):$/;"	m	class:AppProfiler
+limit_callchain_percent	simpleperf/report_html.py	/^    def limit_callchain_percent(self, min_callchain_percent, hit_func_ids):$/;"	m	class:FunctionScope
+limit_percents	simpleperf/report_html.py	/^    def limit_percents(self, min_func_percent, min_callchain_percent):$/;"	m	class:RecordData
+line_key	simpleperf/annotate.py	/^    def line_key(self):$/;"	m	class:SourceLine
+load_pprof_profile	simpleperf/pprof_proto_generator.py	/^def load_pprof_profile(filename):$/;"	f
+load_record_file	simpleperf/report_html.py	/^    def load_record_file(self, record_file, show_art_frames):$/;"	m	class:RecordData
+load_source_code	simpleperf/report_html.py	/^    def load_source_code(self, source_dirs):$/;"	m	class:SourceFileSet
+log_batterystat	measure_perf_n_battery.py	/^def log_batterystat(target_device_id, to_file_path):$/;"	f
+log_batterystat	measure_script.py	/^def log_batterystat(target_device_id, to_file_path):$/;"	f
+log_batterystat	measure_w_perf.py	/^def log_batterystat(target_device_id, to_file_path):$/;"	f
+log_debug	simpleperf/utils.py	/^def log_debug(msg):$/;"	f
+log_exit	simpleperf/utils.py	/^def log_exit(msg):$/;"	f
+log_fatal	simpleperf/utils.py	/^def log_fatal(msg):$/;"	f
+log_info	simpleperf/utils.py	/^def log_info(msg):$/;"	f
+log_path	measure_perf_kkh.py	/^    log_path = f"logs\/{desc}\/{device_model}\/logs_{device_id}\/{repeat}"$/;"	v
+log_path	measure_perf_n_battery.py	/^    log_path = f"logs\/{desc}\/{device_model}\/logs_{device_id}\/{repeat}"$/;"	v
+log_path	measure_script.py	/^    log_path = f"logs\/{desc}\/logs_{device_id}\/{repeat}"$/;"	v
+log_path	measure_w_perf.py	/^    log_path = f"logs\/{desc}\/{device_model}\/logs_{device_id}\/{repeat}"$/;"	v
+log_warning	simpleperf/utils.py	/^def log_warning(msg):$/;"	f
+main	simpleperf/annotate.py	/^def main():$/;"	f
+main	simpleperf/app_profiler.py	/^def main():$/;"	f
+main	simpleperf/binary_cache_builder.py	/^def main():$/;"	f
+main	simpleperf/debug_unwind_reporter.py	/^def main():$/;"	f
+main	simpleperf/inferno/inferno.py	/^def main():$/;"	f
+main	simpleperf/pprof_proto_generator.py	/^def main():$/;"	f
+main	simpleperf/report.py	/^def main():$/;"	f
+main	simpleperf/report_html.py	/^def main():$/;"	f
+main	simpleperf/run_simpleperf_on_device.py	/^def main():$/;"	f
+main	simpleperf/run_simpleperf_without_usb_connection.py	/^def main():$/;"	f
+measure_batterystat	measure_perf_n_battery.py	/^def measure_batterystat(duration, log_path, target_device_id):$/;"	f
+measure_batterystat	measure_script.py	/^def measure_batterystat(duration, log_path, target_device_id):$/;"	f
+measure_batterystat	measure_w_perf.py	/^def measure_batterystat(duration, log_path, target_device_id):$/;"	f
+measure_perf	measure_perf_kkh.py	/^def measure_perf(package, duration, log_path):$/;"	f
+measure_perf	measure_perf_n_battery.py	/^def measure_perf(package, duration, log_path):$/;"	f
+measure_perf	measure_w_perf.py	/^def measure_perf(package, duration, log_path):$/;"	f
+modify_text_for_html	simpleperf/report_html.py	/^def modify_text_for_html(text):$/;"	f
+noise_time	parse_batterystats.py	/^noise_time = []$/;"	v
+np	find_common_cpu_load_kkh.py	/^import numpy as np$/;"	I
+np	parse_batterystats.py	/^import numpy as np$/;"	I
+on host.	simpleperf/doc/README.md	/^# on host.$/;"	c
+onSampleWeightChange	simpleperf/report_html.js	/^    onSampleWeightChange() {$/;"	m	class:AnonymousFunction3144d0860100.FunctionTab
+onSampleWeightChange	simpleperf/report_html.js	/^    onSampleWeightChange() {$/;"	m	class:AnonymousFunction3144d0860100.SampleTableTab
+openHtml	simpleperf/report_html.js	/^function openHtml(name, attrs={}) {$/;"	f	function:AnonymousFunction3144d0860100
+open_report_in_browser	simpleperf/utils.py	/^def open_report_in_browser(report_path):$/;"	f
+open_tag	simpleperf/report_html.py	/^    def open_tag(self, tag, **attrs):$/;"	m	class:HtmlWriter
+options	simpleperf/report_html.js	/^        this.options = {$/;"	c	class:AnonymousFunction3144d0860100.FunctionSampleWeightSelectorView.constructor
+options	simpleperf/report_html.js	/^        this.options = {$/;"	c	class:AnonymousFunction3144d0860100.SampleTableWeightSelectorView.constructor
+output_report	simpleperf/inferno/inferno.py	/^def output_report(process, args):$/;"	f
+overhead	parse_perf_output.py	/^          overhead = float(values[0][:-1])$/;"	v
+parsable	parse_perf_output.py	/^          parsable = True$/;"	v
+parsable	parse_perf_output.py	/^      parsable = False$/;"	v
+parse_batterystats	find_common_cpu_load_kkh.py	/^def parse_batterystats(path, target_package, logged_data, target_device_model):$/;"	f
+parse_batterystats	parse_perf_output.py	/^def parse_batterystats(path, target_package, logged_data, target_device_model):$/;"	f
+parse_callchain_record	simpleperf/debug_unwind_reporter.py	/^def parse_callchain_record(lines, i, chain_type, process_maps):$/;"	f
+parse_event_reports	simpleperf/report.py	/^def parse_event_reports(lines):$/;"	f
+parse_log_path	find_common_cpu_load_kkh.py	/^def parse_log_path(path):$/;"	f
+parse_perf	find_common_cpu_load_kkh.py	/^def parse_perf(path, parsed_value, target_device_model, device_id, iter_num):$/;"	f
+parse_sample_record	simpleperf/debug_unwind_reporter.py	/^def parse_sample_record(lines, i):$/;"	f
+parse_samples	simpleperf/inferno/inferno.py	/^def parse_samples(process, args, sample_filter_fn):$/;"	f
+parsed_battery_data	find_common_cpu_load_kkh.py	/^  parsed_battery_data = defaultdict(list)$/;"	v
+parsed_batterystats	parse_perf_output.py	/^parsed_batterystats = defaultdict(list)$/;"	v
+parsed_perf_data	find_common_cpu_load_kkh.py	/^  parsed_perf_data = defaultdict(list)$/;"	v
+parsed_value	parse_perf_output.py	/^parsed_value = defaultdict(list)$/;"	v
+parser	find_common_cpu_load_kkh.py	/^  parser = argparse.ArgumentParser(description='Parse the perf and batterystats data')$/;"	v
+parser	measure_perf_kkh.py	/^  parser = argparse.ArgumentParser(description='Execute the experiment')$/;"	v
+parser	measure_perf_n_battery.py	/^  parser = argparse.ArgumentParser(description='Execute the experiment')$/;"	v
+parser	measure_script.py	/^  parser = argparse.ArgumentParser(description='Execute the experiment')$/;"	v
+parser	measure_w_perf.py	/^  parser = argparse.ArgumentParser(description='Execute the experiment')$/;"	v
+parser	parse_perf_output.py	/^  parser = argparse.ArgumentParser(description='Parse the experiment')$/;"	v
+parser	simpleperf/report_sample.py	/^    parser = argparse.ArgumentParser(description='Report samples in perf.data.')$/;"	v
+partition_total_data	find_common_cpu_load_kkh.py	/^  partition_total_data = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: defaultdict/;"	v
+pass it any argument.	simpleperf/doc/README.md	/^# pass it any argument.$/;"	c
+pd	find_common_cpu_load_kkh.py	/^import pandas as pd$/;"	I
+pd	parse_batterystats.py	/^import pandas as pd$/;"	I
+plt	find_common_cpu_load_kkh.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	parse_batterystats.py	/^import matplotlib.pyplot as plt$/;"	I
+plug	measure_perf_kkh.py	/^def plug(device_id):$/;"	f
+plug	measure_perf_n_battery.py	/^def plug(device_id):$/;"	f
+plug	measure_script.py	/^def plug(device_id):$/;"	f
+plug	measure_w_perf.py	/^def plug(device_id):$/;"	f
+power_info	parse_batterystats.py	/^    power_info = get_power_info(f"{path}\/batterystats", [package_name_pairs[target_app], target/;"	v
+pprof_proto_generator.py	simpleperf/doc/README.md	/^### pprof_proto_generator.py$/;"	S
+prepare	simpleperf/app_profiler.py	/^    def prepare(self):$/;"	m	class:AppProfiler
+prepare	simpleperf/app_profiler.py	/^    def prepare(self):$/;"	m	class:ProfilerBase
+print_partition_data	find_common_cpu_load_kkh.py	/^def print_partition_data(partition_data):$/;"	f
+profile	simpleperf/app_profiler.py	/^    def profile(self):$/;"	m	class:ProfilerBase
+pull_via_adb	measure_perf_kkh.py	/^def pull_via_adb(target_device_id, from_file_path, to_file_path):$/;"	f
+pull_via_adb	measure_perf_n_battery.py	/^def pull_via_adb(target_device_id, from_file_path, to_file_path):$/;"	f
+pull_via_adb	measure_script.py	/^def pull_via_adb(target_device_id, from_file_path, to_file_path):$/;"	f
+pull_via_adb	measure_w_perf.py	/^def pull_via_adb(target_device_id, from_file_path, to_file_path):$/;"	f
+pv	find_common_cpu_load_kkh.py	/^  pv = pd.DataFrame(parsed_battery_data)$/;"	v
+pv	find_common_cpu_load_kkh.py	/^  pv = pd.DataFrame(parsed_perf_data)$/;"	v
+realDraw	simpleperf/report_html.js	/^    realDraw() {$/;"	m	class:AnonymousFunction3144d0860100.ChartView
+realDraw	simpleperf/report_html.js	/^    realDraw() {$/;"	m	class:AnonymousFunction3144d0860100.RecordFileView
+realDraw	simpleperf/report_html.js	/^    realDraw(sampleWeightFunction) {$/;"	m	class:AnonymousFunction3144d0860100.DisassemblyView
+realDraw	simpleperf/report_html.js	/^    realDraw(sampleWeightFunction) {$/;"	m	class:AnonymousFunction3144d0860100.SourceCodeView
+remove	simpleperf/utils.py	/^def remove(dir_or_file):$/;"	f
+renderInfoNode	simpleperf/inferno/svg_renderer.py	/^def renderInfoNode(f):$/;"	f
+renderPercentNode	simpleperf/inferno/svg_renderer.py	/^def renderPercentNode(f):$/;"	f
+renderSVG	simpleperf/inferno/svg_renderer.py	/^def renderSVG(process, flamegraph, f, color_scheme):$/;"	f
+renderSVGNodes	simpleperf/inferno/svg_renderer.py	/^def renderSVGNodes(process, flamegraph, depth, f, total_weight, height, color_scheme):$/;"	f
+renderSearchNode	simpleperf/inferno/svg_renderer.py	/^def renderSearchNode(f):$/;"	f
+renderUnzoomNode	simpleperf/inferno/svg_renderer.py	/^def renderUnzoomNode(f):$/;"	f
+repeat	measure_perf_kkh.py	/^  repeat = args.repeat$/;"	v
+repeat	measure_perf_n_battery.py	/^  repeat = args.repeat$/;"	v
+repeat	measure_script.py	/^  repeat = args.repeat$/;"	v
+repeat	measure_w_perf.py	/^  repeat = args.repeat$/;"	v
+report.py	simpleperf/doc/README.md	/^### report.py$/;"	S
+report_html.py	simpleperf/doc/README.md	/^### report_html.py$/;"	S
+report_html.py searches binary_cache/ automatically, so you don't need to	simpleperf/doc/README.md	/^# report_html.py searches binary_cache\/ automatically, so you don't need to$/;"	c
+report_sample	simpleperf/report_sample.py	/^def report_sample(record_file, symfs_dir, kallsyms_file=None):$/;"	f
+report_sample.py	simpleperf/doc/README.md	/^### report_sample.py$/;"	S
+request_lines	simpleperf/report_html.py	/^    def request_lines(self, start_line, end_line):$/;"	m	class:SourceFile
+root privilege.	simpleperf/doc/README.md	/^# root privilege.$/;"	c
+run	simpleperf/utils.py	/^    def run(self, adb_args):$/;"	m	class:AdbHelper
+run-as: package not debuggable	simpleperf/doc/inferno.md	/^#### run-as: package not debuggable$/;"	t
+run_and_return_output	simpleperf/utils.py	/^    def run_and_return_output(self, adb_args, stdout_file=None, log_output=True):$/;"	m	class:AdbHelper
+run_in_app_dir	simpleperf/app_profiler.py	/^    def run_in_app_dir(self, args):$/;"	m	class:AppProfiler
+run_simpleperf_on_device.py	simpleperf/doc/README.md	/^### run_simpleperf_on_device.py$/;"	S
+run_simpleperf_without_usb_connection.py	simpleperf/doc/README.md	/^### run_simpleperf_without_usb_connection.py$/;"	S
+sample entry.	simpleperf/doc/README.md	/^# sample entry.$/;"	c
+scenario	parse_batterystats.py	/^    scenario = "_".join(splited_scenario[:-1]) + "\\n" + splited_scenario[-1]$/;"	v
+scripts_path	simpleperf/inferno/inferno.py	/^scripts_path = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))$/;"	v
+search	simpleperf/inferno/script.js	/^function search(e) {$/;"	f
+seconds.	simpleperf/doc/README.md	/^# seconds.$/;"	c
+select	simpleperf/inferno/script.js	/^function select(e) {$/;"	f
+selected	simpleperf/inferno/script.js	/^let selected;$/;"	v
+setActive	simpleperf/report_html.js	/^    setActive(tabObj) {$/;"	m	class:AnonymousFunction3144d0860100.TabManager
+setFunction	simpleperf/report_html.js	/^    setFunction(eventInfo, processInfo, threadInfo, lib, func) {$/;"	m	class:AnonymousFunction3144d0860100.FunctionTab
+set_property	simpleperf/utils.py	/^    def set_property(self, name, value):$/;"	m	class:AdbHelper
+shared_object	parse_perf_output.py	/^          shared_object = values[4]$/;"	v
+should_omit	simpleperf/debug_unwind_reporter.py	/^    def should_omit(self, sample_result, joined_record):$/;"	m	class:UnwindingResultErrorReport
+show	simpleperf/debug_unwind_reporter.py	/^    def show(self):$/;"	m	class:FileResult
+show	simpleperf/debug_unwind_reporter.py	/^    def show(self):$/;"	m	class:FunctionResult
+show	simpleperf/debug_unwind_reporter.py	/^    def show(self):$/;"	m	class:ProcessMaps
+show	simpleperf/debug_unwind_reporter.py	/^    def show(self):$/;"	m	class:SampleResult
+show	simpleperf/debug_unwind_reporter.py	/^    def show(self):$/;"	m	class:UnwindingResultErrorReport
+show	simpleperf/pprof_proto_generator.py	/^    def show(self):$/;"	m	class:PprofProfilePrinter
+showFunction	simpleperf/report_html.js	/^    static showFunction(eventInfo, processInfo, threadInfo, lib, func) {$/;"	m	class:AnonymousFunction3144d0860100.FunctionTab
+showLines	simpleperf/report_html.js	/^            this.showLines[i] = {eventCount: 0, subtreeEventCount: 0};$/;"	c	class:AnonymousFunction3144d0860100.SourceFile.addLineRange
+show_function	simpleperf/pprof_proto_generator.py	/^    def show_function(self, function, space=''):$/;"	m	class:PprofProfilePrinter
+show_function_id	simpleperf/pprof_proto_generator.py	/^    def show_function_id(self, function_id, space=''):$/;"	m	class:PprofProfilePrinter
+show_label	simpleperf/pprof_proto_generator.py	/^    def show_label(self, label, space=''):$/;"	m	class:PprofProfilePrinter
+show_line	simpleperf/pprof_proto_generator.py	/^    def show_line(self, line, space=''):$/;"	m	class:PprofProfilePrinter
+show_location	simpleperf/pprof_proto_generator.py	/^    def show_location(self, location, space=''):$/;"	m	class:PprofProfilePrinter
+show_location_id	simpleperf/pprof_proto_generator.py	/^    def show_location_id(self, location_id, space=''):$/;"	m	class:PprofProfilePrinter
+show_mapping	simpleperf/pprof_proto_generator.py	/^    def show_mapping(self, mapping, space=''):$/;"	m	class:PprofProfilePrinter
+show_mapping_id	simpleperf/pprof_proto_generator.py	/^    def show_mapping_id(self, mapping_id, space=''):$/;"	m	class:PprofProfilePrinter
+show_sample	simpleperf/pprof_proto_generator.py	/^    def show_sample(self, sample, space=''):$/;"	m	class:PprofProfilePrinter
+show_value_type	simpleperf/pprof_proto_generator.py	/^    def show_value_type(self, value_type, space=''):$/;"	m	class:PprofProfilePrinter
+simpleperf_report_lib.py	simpleperf/doc/README.md	/^### simpleperf_report_lib.py$/;"	S
+splited_path	parse_batterystats.py	/^    splited_path = path.split("\/")$/;"	v
+splited_scenario	parse_batterystats.py	/^    splited_scenario = splited_path[-3].split("_")$/;"	v
+start	simpleperf/app_profiler.py	/^    def start(self):$/;"	m	class:AppProfiler
+start	simpleperf/app_profiler.py	/^    def start(self):$/;"	m	class:NativeCommandProfiler
+start	simpleperf/app_profiler.py	/^    def start(self):$/;"	m	class:NativeProgramProfiler
+start	simpleperf/app_profiler.py	/^    def start(self):$/;"	m	class:ProfilerBase
+start_activity	simpleperf/app_profiler.py	/^    def start_activity(self):$/;"	m	class:AppProfiler
+start_profiling	simpleperf/app_profiler.py	/^    def start_profiling(self, target_args):$/;"	m	class:ProfilerBase
+start_recording	simpleperf/run_simpleperf_without_usb_connection.py	/^def start_recording(args):$/;"	f
+start_test	simpleperf/app_profiler.py	/^    def start_test(self):$/;"	m	class:AppProfiler
+states	simpleperf/report_html.js	/^        this.states = {$/;"	c	class:AnonymousFunction3144d0860100.ChartView.constructor
+stop_profiling	simpleperf/app_profiler.py	/^    def stop_profiling(self):$/;"	m	class:ProfilerBase
+stop_recording	simpleperf/run_simpleperf_without_usb_connection.py	/^def stop_recording(args):$/;"	f
+store_pprof_profile	simpleperf/pprof_proto_generator.py	/^def store_pprof_profile(filename, profile):$/;"	f
+str_to_bytes	simpleperf/utils.py	/^def str_to_bytes(str):$/;"	f
+string	simpleperf/pprof_proto_generator.py	/^    def string(self, id):$/;"	m	class:PprofProfilePrinter
+subtreeEventCount	simpleperf/report_html.js	/^            this.showLines[i] = {eventCount: 0, subtreeEventCount: 0};$/;"	p	class:AnonymousFunction3144d0860100.SourceFile.addLineRange.showLines
+subtreeEventCount	simpleperf/report_html.js	/^        let item = {code: code, eventCount: 0, subtreeEventCount: 0};$/;"	p	class:AnonymousFunction3144d0860100.collectDisassemblyForFunction.item
+successfully, otherwise the `./gradlew` command below will fail.	simpleperf/doc/README.md	/^# successfully, otherwise the `.\/gradlew` command below will fail.$/;"	c
+switch_to_root	simpleperf/utils.py	/^    def switch_to_root(self):$/;"	m	class:AdbHelper
+symbol	parse_perf_output.py	/^          symbol = values[5]$/;"	v
+sync_natives_libs_on_device	simpleperf/app_profiler.py	/^    def sync_natives_libs_on_device(self):$/;"	m	class:NativeLibDownloader
+target_app	find_common_cpu_load_kkh.py	/^      device_model, target_app, device_id, iter_num = parse_log_path(path)$/;"	v
+target_app	parse_batterystats.py	/^    target_app = splited_path[-4]$/;"	v
+target_app	parse_perf_output.py	/^      target_app = path.split("\/")[2]$/;"	v
+target_apps	parse_batterystats.py	/^target_apps = os.listdir(target_log_dir)$/;"	v
+target_categories	parse_batterystats.py	/^target_categories = ['screenPowerMah',\\$/;"	v
+target_category	parse_perf_output.py	/^target_category = ["cpuPowerMah", "cpuTimeMs"]$/;"	v
+target_device_model	parse_perf_output.py	/^        target_device_model= "Pixel_4a"$/;"	v
+target_device_model	parse_perf_output.py	/^      target_device_model = "Pixel_4XL"$/;"	v
+target_log_dir	find_common_cpu_load_kkh.py	/^  target_log_dir = args.log_dir$/;"	v
+target_log_dir	parse_batterystats.py	/^target_log_dir = "logs\/manual_battery_logs\/" $/;"	v
+target_log_dir	parse_perf_output.py	/^  target_log_dir = args.log_dir$/;"	v
+target_package	find_common_cpu_load_kkh.py	/^      target_package =  target_packages_from_dir[target_app]$/;"	v
+target_package	measure_perf_kkh.py	/^  target_package = args.package_name $/;"	v
+target_package	measure_perf_n_battery.py	/^  target_package = args.package_name $/;"	v
+target_package	measure_script.py	/^  target_package = args.package_name $/;"	v
+target_package	measure_w_perf.py	/^  target_package = args.package_name $/;"	v
+target_package	parse_perf_output.py	/^target_package = "com.gsrathoreniks.facefilter"$/;"	v
+target_packages_from_dir	find_common_cpu_load_kkh.py	/^target_packages_from_dir = {"cake_50s": "me.mycake","cake_95s": "me.mycake", "cake_150s" : "me.m/;"	v
+the same function in the same binary.	simpleperf/doc/README.md	/^# the same function in the same binary.$/;"	c
+the same sample entry.	simpleperf/doc/README.md	/^# the same sample entry.$/;"	c
+thread name are in the same sample entry.	simpleperf/doc/README.md	/^# thread name are in the same sample entry.$/;"	c
+thread name(comm), process id(pid), thread id(tid), function name(symbol), and showing sample	simpleperf/doc/README.md	/^# thread name(comm), process id(pid), thread id(tid), function name(symbol), and showing sample$/;"	c
+throttle	simpleperf/inferno/script.js	/^    function throttle(callback) {$/;"	f	function:flamegraphInit
+throttle	simpleperf/report_html.js	/^        function throttle(callback) {$/;"	f	function:AnonymousFunction3144d0860100.FlameGraphView._adjustTextSizeOnResize
+toPercentageStr	simpleperf/report_html.js	/^function toPercentageStr(percentage) {$/;"	f	function:AnonymousFunction3144d0860100
+total	find_common_cpu_load_kkh.py	/^  total = 0$/;"	v
+total_cnt	find_common_cpu_load_kkh.py	/^    total_cnt = total_cnt_per_comm_cnt[comm]["total"]$/;"	v
+total_cnt_per_comm	find_common_cpu_load_kkh.py	/^  total_cnt_per_comm = defaultdict(int)$/;"	v
+total_cnt_per_comm_cnt	find_common_cpu_load_kkh.py	/^  total_cnt_per_comm_cnt = defaultdict(lambda: defaultdict(int))$/;"	v
+total_inst	parse_perf_output.py	/^          total_inst = int(line.strip().split()[-1])$/;"	v
+total_inst	parse_perf_output.py	/^  total_inst = defaultdict(list)$/;"	v
+total_power_infos	parse_batterystats.py	/^total_power_infos = []$/;"	v
+trim_callchain	simpleperf/inferno/data_types.py	/^    def trim_callchain(self, min_num_events):$/;"	m	class:FlameGraphCallSite
+trim_functions	simpleperf/report_html.py	/^    def trim_functions(self, left_func_ids):$/;"	m	class:FunctionSet
+unplug	measure_perf_kkh.py	/^def unplug(device_id):$/;"	f
+unplug	measure_perf_n_battery.py	/^def unplug(device_id):$/;"	f
+unplug	measure_script.py	/^def unplug(device_id):$/;"	f
+unplug	measure_w_perf.py	/^def unplug(device_id):$/;"	f
+unzoom	simpleperf/inferno/script.js	/^function unzoom(e) {$/;"	f
+unzoom	simpleperf/report_html.js	/^        function unzoom() {$/;"	f	function:AnonymousFunction3144d0860100.FlameGraphView._enableZoom
+update_subtree_event_count	simpleperf/report_html.py	/^    def update_subtree_event_count(self):$/;"	m	class:CallNode
+update_subtree_event_count	simpleperf/report_html.py	/^    def update_subtree_event_count(self):$/;"	m	class:FunctionScope
+values	parse_perf_output.py	/^          values = line.split()$/;"	v
+wait_profiling	simpleperf/app_profiler.py	/^    def wait_profiling(self):$/;"	m	class:ProfilerBase
+weight	simpleperf/inferno/data_types.py	/^    def weight(self):$/;"	m	class:FlameGraphCallSite
+write_content_div	simpleperf/report_html.py	/^    def write_content_div(self):$/;"	m	class:ReportGenerator
+write_flamegraph	simpleperf/report_html.py	/^    def write_flamegraph(self, flamegraph):$/;"	m	class:ReportGenerator
+write_record_data	simpleperf/report_html.py	/^    def write_record_data(self, record_data):$/;"	m	class:ReportGenerator
+write_script	simpleperf/report_html.py	/^    def write_script(self):$/;"	m	class:ReportGenerator
+zoom	simpleperf/inferno/script.js	/^function zoom(e) {$/;"	f
+zoom	simpleperf/report_html.js	/^        function zoom() {$/;"	f	function:AnonymousFunction3144d0860100.FlameGraphView._enableZoom

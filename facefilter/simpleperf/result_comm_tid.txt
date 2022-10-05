@@ -1,0 +1,316 @@
+Cmdline: /data/local/tmp/simpleperf record -o /data/local/tmp/perf.data -e instructions -f 1000 --duration 100 --call-graph fp --app com.zamface
+Arch: arm64
+Event: instructions (type 0, config 1)
+Samples: 91720
+Event count: 135865288130
+
+Overhead  Command          Tid
+27.32%    FrameProcessing  23790
+14.69%    glide-animation  18657
+14.65%    glide-animation  18658
+13.71%    HeapTaskDaemon   15211
+9.71%     mqt_js           15311
+4.54%     RenderThread     15278
+4.02%     GLThread 2003    23778
+3.40%     Binder:15197_1   15215
+3.15%     mqt_native_modu  15312
+2.18%     com.zamface      15197
+0.71%     Binder:15197_5   18029
+0.32%     glide-disk-cach  15370
+0.18%     glide-source-th  15382
+0.17%     HybridData Dest  15305
+0.15%     CountlyConnecti  15437
+0.12%     hades            15313
+0.11%     glide-source-th  15384
+0.09%     glide-source-th  15391
+0.07%     CameraHandlerTh  23789
+0.05%     Countly_cmd      15434
+0.05%     pool-12-thread-  15229
+0.03%     FrameMetricsAgg  15289
+0.03%     Measurement Wor  25973
+0.03%     FinalizerDaemon  15213
+0.02%     MakeupCamIntern  23791
+0.02%     RxSchedulerPurg  15418
+0.02%     ReferenceQueueD  15212
+0.01%     alhost:3000/...  23551
+0.01%     Jit thread pool  15210
+0.01%     Profile Saver    15219
+0.01%     logThread        15335
+0.01%     pool-4-thread-1  15291
+0.01%     glide-source-th  15383
+0.01%     PfRxCachedThrea  23776
+0.01%     AsyncTask #1     15252
+0.01%     PfRxCachedThrea  15512
+0.01%     PfRxCachedThrea  23757
+0.01%     PfRxCachedThrea  20737
+0.01%     mface.co.kr/...  23551
+0.01%     PfRxCachedThrea  20731
+0.01%     PfRxCachedThrea  23692
+0.01%     PfRxCachedThrea  23697
+0.01%     PfRxCachedThrea  23765
+0.01%     PfRxCachedThrea  15657
+0.01%     PfRxCachedThrea  23761
+0.01%     httpThread       15336
+0.01%     PfRxCachedThrea  23758
+0.01%     PfRxCachedThrea  23694
+0.01%     mface.co.kr/...  25089
+0.01%     PfRxCachedThrea  20734
+0.01%     mface.co.kr/...  24784
+0.01%     mface.co.kr/...  26475
+0.01%     mface.co.kr/...  24477
+0.01%     mface.co.kr/...  26014
+0.01%     PfRxCachedThrea  23770
+0.01%     PfRxCachedThrea  23773
+0.00%     mface.co.kr/...  25704
+0.00%     mface.co.kr/...  24170
+0.00%     mface.co.kr/...  26812
+0.00%     mface.co.kr/...  25396
+0.00%     Binder:15197_4   15218
+0.00%     PfRxCachedThrea  23726
+0.00%     PfRxCachedThrea  23682
+0.00%     PfRxCachedThrea  23688
+0.00%     PfRxCachedThrea  20805
+0.00%     mface.co.kr/...  26783
+0.00%     PfRxCachedThrea  23701
+0.00%     PfRxCachedThrea  15658
+0.00%     MakeupCamIntern  23792
+0.00%     PfRxCachedThrea  23672
+0.00%     PfRxCachedThrea  23749
+0.00%     CLFlurryAgentHe  15435
+0.00%     PfRxCachedThrea  15656
+0.00%     PfRxCachedThrea  23746
+0.00%     PfRxCachedThrea  15652
+0.00%     PfRxCachedThrea  23669
+0.00%     PfRxCachedThrea  23736
+0.00%     PfRxCachedThrea  20775
+0.00%     PfRxCachedThrea  23709
+0.00%     PfRxCachedThrea  23687
+0.00%     PfRxCachedThrea  20742
+0.00%     PfRxCachedThrea  23760
+0.00%     PfRxCachedThrea  20808
+0.00%     PfRxCachedThrea  15588
+0.00%     PfRxCachedThrea  15590
+0.00%     PfRxCachedThrea  20724
+0.00%     PfRxCachedThrea  23700
+0.00%     PfRxCachedThrea  20738
+0.00%     PfRxCachedThrea  23738
+0.00%     PfRxCachedThrea  23754
+0.00%     PfRxCachedThrea  23686
+0.00%     PfRxCachedThrea  23739
+0.00%     PfRxCachedThrea  23722
+0.00%     PfRxCachedThrea  20809
+0.00%     PfRxCachedThrea  23663
+0.00%     PfRxCachedThrea  23670
+0.00%     PfRxCachedThrea  20725
+0.00%     PfRxCachedThrea  20803
+0.00%     PfRxCachedThrea  20733
+0.00%     PfRxCachedThrea  23704
+0.00%     PfRxCachedThrea  23703
+0.00%     PfRxCachedThrea  23766
+0.00%     PfRxCachedThrea  23730
+0.00%     PfRxCachedThrea  23707
+0.00%     PfRxCachedThrea  23676
+0.00%     PfRxCachedThrea  23708
+0.00%     queued-work-loo  15272
+0.00%     PfRxCachedThrea  23768
+0.00%     PfRxCachedThrea  23698
+0.00%     PfRxCachedThrea  23745
+0.00%     PfRxCachedThrea  23771
+0.00%     OkHttp Connecti  23596
+0.00%     PfRxCachedThrea  20801
+0.00%     PfRxCachedThrea  20806
+0.00%     PfRxCachedThrea  20726
+0.00%     PfRxCachedThrea  15659
+0.00%     PfRxCachedThrea  23767
+0.00%     PfRxCachedThrea  23695
+0.00%     PfRxCachedThrea  23690
+0.00%     PfRxCachedThrea  23683
+0.00%     PfRxCachedThrea  23774
+0.00%     .cloudfront.net  15348
+0.00%     PfRxCachedThrea  20722
+0.00%     PfRxCachedThrea  23755
+0.00%     PfRxCachedThrea  23775
+0.00%     PfRxCachedThrea  15661
+0.00%     PfRxCachedThrea  20810
+0.00%     PfRxCachedThrea  15655
+0.00%     PfRxCachedThrea  23671
+0.00%     PfRxCachedThrea  23719
+0.00%     PfRxCachedThrea  23751
+0.00%     PfRxCachedThrea  15496
+0.00%     PfRxCachedThrea  23748
+0.00%     PfRxCachedThrea  15561
+0.00%     PfRxCachedThrea  20739
+0.00%     PfRxCachedThrea  23666
+0.00%     OkHttp Dispatch  26789
+0.00%     udfront.net/...  23551
+0.00%     PfRxCachedThrea  23737
+0.00%     PfRxCachedThrea  20730
+0.00%     PfRxCachedThrea  15513
+0.00%     PfRxCachedThrea  23728
+0.00%     udfront.net/...  26768
+0.00%     PfRxCachedThrea  20735
+0.00%     PfRxCachedThrea  23693
+0.00%     OkHttp Dispatch  23551
+0.00%     OkHttp Dispatch  26812
+0.00%     PfRxCachedThrea  20804
+0.00%     firebase-instal  25974
+0.00%     PfRxCachedThrea  23763
+0.00%     PfRxCachedThrea  20727
+0.00%     PfRxCachedThrea  23733
+0.00%     PfRxCachedThrea  20723
+0.00%     OkHttp TaskRunn  15340
+0.00%     OkHttp Connecti  15263
+0.00%     OkHttp Connecti  15345
+0.00%     PfRxCachedThrea  23721
+0.00%     PfRxCachedThrea  20732
+0.00%     PfRxCachedThrea  23667
+0.00%     PfRxCachedThrea  23779
+0.00%     PfRxCachedThrea  20800
+0.00%     PfRxCachedThrea  23715
+0.00%     PfRxCachedThrea  23677
+0.00%     PfRxCachedThrea  23713
+0.00%     PfRxCachedThrea  23753
+0.00%     OkHttp Connecti  15340
+0.00%     OkHttp TaskRunn  23424
+0.00%     PfRxCachedThrea  23684
+0.00%     Crashlytics Exc  15227
+0.00%     PfRxCachedThrea  23706
+0.00%     p yt3.ggpht.com  15331
+0.00%     PfRxCachedThrea  15654
+0.00%     i.zamface.co.kr  23424
+0.00%     PfRxCachedThrea  23731
+0.00%     OkHttp TaskRunn  15345
+0.00%     PfRxCachedThrea  23769
+0.00%     PfRxCachedThrea  23724
+0.00%     PfRxCachedThrea  23743
+0.00%     PfRxCachedThrea  20729
+0.00%     PfRxCachedThrea  23777
+0.00%     PfRxCachedThrea  23725
+0.00%     PfRxCachedThrea  15660
+0.00%     firebase-instal  25975
+0.00%     PfRxCachedThrea  23712
+0.00%     PfRxCachedThrea  20741
+0.00%     PfRxCachedWorke  15419
+0.00%     udfront.net/...  26789
+0.00%     PfRxCachedThrea  23664
+0.00%     i.zamface.co.kr  23596
+0.00%     PfRxCachedThrea  23696
+0.00%     udfront.net/...  26788
+0.00%     PfRxCachedThrea  23772
+0.00%     Measurement Wor  23632
+0.00%     PfRxCachedThrea  20736
+0.00%     PfRxCachedThrea  20721
+0.00%     PfRxCachedThrea  23705
+0.00%     PfRxCachedThrea  15662
+0.00%     PfRxCachedThrea  23742
+0.00%     PfRxCachedThrea  20799
+0.00%     PfRxCachedThrea  23717
+0.00%     PfRxCachedThrea  23720
+0.00%     hwuiTask0        15685
+0.00%     PfRxCachedThrea  23747
+0.00%     hwuiTask1        15686
+0.00%     PfRxCachedThrea  20807
+0.00%     .ggpht.com ping  15345
+0.00%     PfRxCachedThrea  23711
+0.00%     PfRxCachedThrea  15499
+0.00%     PfRxCachedThrea  23691
+0.00%     .ggpht.com ping  15340
+0.00%     CookieMonsterCl  15326
+0.00%     PfRxCachedThrea  20728
+0.00%     Timer-0          15303
+0.00%     PfRxCachedThrea  23710
+0.00%     PfRxCachedThrea  20776
+0.00%     PfRxCachedThrea  23716
+0.00%     PfRxCachedThrea  23685
+0.00%     OkHttp TaskRunn  23596
+0.00%     PfRxCachedThrea  23678
+0.00%     PfRxCachedThrea  23752
+0.00%     PfRxCachedThrea  23689
+0.00%     PfRxCachedThrea  23750
+0.00%     PfRxCachedThrea  15493
+0.00%     PfRxCachedThrea  23762
+0.00%     PfRxCachedThrea  23718
+0.00%     PfRxCachedThrea  23759
+0.00%     PfRxCachedThrea  23699
+0.00%     RequestFactoryE  23646
+0.00%     PfRxCachedThrea  23756
+0.00%     FinalizerWatchd  15214
+0.00%     PfRxCachedThrea  20778
+0.00%     PfRxCachedThrea  23764
+0.00%     Okio Watchdog    15332
+0.00%     PfRxCachedThrea  15589
+0.00%     glide-active-re  15366
+0.00%     RequestFactoryE  23651
+0.00%     PfRxCachedThrea  23714
+0.00%     PfRxCachedThrea  23681
+0.00%     PfRxCachedThrea  23788
+0.00%     RequestFactoryE  23645
+0.00%     PfRxCachedThrea  23729
+0.00%     PfRxCachedThrea  20777
+0.00%     PfRxCachedThrea  15574
+0.00%     PfRxCachedThrea  20811
+0.00%     firebase-instal  23637
+0.00%     RequestFactoryE  23642
+0.00%     RequestFactoryE  23648
+0.00%     PfRxCachedThrea  23673
+0.00%     PfRxCachedThrea  23735
+0.00%     PfRxCachedThrea  23787
+0.00%     PfRxCachedThrea  20740
+0.00%     Okio Watchdog    15319
+0.00%     2.amplitude.com  23424
+0.00%     PfRxCachedThrea  23665
+0.00%     OkHttp Dispatch  26768
+0.00%     PfRxCachedThrea  23780
+0.00%     PfRxCachedThrea  23785
+0.00%     PfRxCachedThrea  20802
+0.00%     PfRxCachedThrea  23744
+0.00%     RequestFactoryE  23647
+0.00%     PfRxCachedThrea  23727
+0.00%     PfRxCachedThrea  23680
+0.00%     RequestFactoryE  23650
+0.00%     PfRxCachedThrea  23781
+0.00%     PfRxCachedThrea  23784
+0.00%     glide-source-th  26768
+0.00%     DefaultDispatch  15274
+0.00%     PfRxCachedThrea  23675
+0.00%     PfRxCachedThrea  23786
+0.00%     PfRxCachedThrea  23741
+0.00%     RequestFactoryE  23640
+0.00%     PfRxCachedThrea  20743
+0.00%     PfRxCachedThrea  23723
+0.00%     RequestFactoryE  23649
+0.00%     PfRxCachedThrea  20720
+0.00%     DefaultDispatch  15368
+0.00%     PfRxCachedThrea  23702
+0.00%     PfRxCachedThrea  23674
+0.00%     RequestFactoryE  23641
+0.00%     3.ggpht.com/...  26768
+0.00%     PfRxCachedThrea  23679
+0.00%     PfRxCachedThrea  23668
+0.00%     PfRxCachedThrea  23734
+0.00%     PfRxCachedThrea  15575
+0.00%     PfRxCachedThrea  20812
+0.00%     PfRxCachedThrea  20798
+0.00%     PfRxCachedThrea  15663
+0.00%     RequestFactoryE  23644
+0.00%     RequestFactoryE  23652
+0.00%     glide-source-th  26789
+0.00%     RequestFactoryE  23653
+0.00%     PfRxCachedThrea  15653
+0.00%     firebase-instal  23636
+0.00%     PfRxCachedThrea  20744
+0.00%     PfRxCachedThrea  23732
+0.00%     ScionFrontendAp  23631
+0.00%     OkHttp TaskRunn  15343
+0.00%     RequestFactoryE  23633
+0.00%     PfRxCachedThrea  23740
+0.00%     PfRxCachedThrea  23783
+0.00%     DefaultDispatch  15286
+0.00%     OkHttp TaskRunn  15341
+0.00%     PfRxCachedThrea  23782
+0.00%     RequestFactoryE  23643
+0.00%     DefaultDispatch  15285
+0.00%     DefaultDispatch  15367
+0.00%     DefaultDispatch  15273
+0.00%     DefaultDispatch  15275
+0.00%     PfRxCachedThrea  15606
